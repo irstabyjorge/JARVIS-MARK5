@@ -1,0 +1,2047 @@
+{
+  "commit": "4311b6377d994b188cec7b983da83cd900cb57f2",
+  "commits": [
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-11-13T11:01:20-08:00",
+      "sha": "4311b6377d994b188cec7b983da83cd900cb57f2",
+      "subject": "Install AEGIS GitHub IP SHIELD provenance workflow (#1)"
+    },
+    {
+      "author_email_sha256": "4a5fa55f235e22cd023f62f38d3dc276697a2efa2e1bf31c0ba81dc7de1f9413",
+      "author_name_declared": "penify-dev[bot]",
+      "authored_at_declared": "2025-01-11T18:46:14Z",
+      "sha": "4193b902a209bbf62cb269a513cbd849c49ce2e9",
+      "subject": "penify/config_6da63"
+    },
+    {
+      "author_email_sha256": "33401fa0fb4b8f1531a9bd1ba9d08c10a407320d2d49a6fbaeacd52af3012b43",
+      "author_name_declared": "LuckyMod",
+      "authored_at_declared": "2025-01-11T13:43:20+05:30",
+      "sha": "c3883bc19179cebdafa118a156a0139fc2b170ec",
+      "subject": "Update automodel.py"
+    },
+    {
+      "author_email_sha256": "33401fa0fb4b8f1531a9bd1ba9d08c10a407320d2d49a6fbaeacd52af3012b43",
+      "author_name_declared": "LuckyMod",
+      "authored_at_declared": "2025-01-11T13:00:07+05:30",
+      "sha": "ef7452efb9c58d264912c578bb312fecfa385412",
+      "subject": "Merge pull request #4 from Likhithsai2580/fix-typeerror"
+    },
+    {
+      "author_email_sha256": "33401fa0fb4b8f1531a9bd1ba9d08c10a407320d2d49a6fbaeacd52af3012b43",
+      "author_name_declared": "LuckyMod",
+      "authored_at_declared": "2025-01-11T12:59:17+05:30",
+      "sha": "957096b511e5a8495f6052687dace748108e6d53",
+      "subject": "Fix TypeError in automation_prompt concatenation"
+    },
+    {
+      "author_email_sha256": "33401fa0fb4b8f1531a9bd1ba9d08c10a407320d2d49a6fbaeacd52af3012b43",
+      "author_name_declared": "LuckyMod",
+      "authored_at_declared": "2025-01-03T00:36:04+05:30",
+      "sha": "87a063d6bd5129be0f4ccb11c1097f6f26aafe04",
+      "subject": "Update llms.py"
+    },
+    {
+      "author_email_sha256": "33401fa0fb4b8f1531a9bd1ba9d08c10a407320d2d49a6fbaeacd52af3012b43",
+      "author_name_declared": "LuckyMod",
+      "authored_at_declared": "2024-10-16T06:10:58Z",
+      "sha": "f62f8119181fec3339754650862b295787ce7d4e",
+      "subject": "Merge pull request #3 from Likhithsai2580/enhance-algorithm"
+    },
+    {
+      "author_email_sha256": "33401fa0fb4b8f1531a9bd1ba9d08c10a407320d2d49a6fbaeacd52af3012b43",
+      "author_name_declared": "LuckyMod",
+      "authored_at_declared": "2024-10-16T06:09:57Z",
+      "sha": "e5295cabcab434c62f0c93cd9c50913168f6c9e2",
+      "subject": "Update error handling and return statements in `automodel.py` and `filter.py`"
+    },
+    {
+      "author_email_sha256": "33401fa0fb4b8f1531a9bd1ba9d08c10a407320d2d49a6fbaeacd52af3012b43",
+      "author_name_declared": "LuckyMod",
+      "authored_at_declared": "2024-10-16T05:57:21Z",
+      "sha": "bd3a48ebc95336f75b181c3913cedaafb8902ebc",
+      "subject": "Enhance classification task algorithm and optimize tools"
+    },
+    {
+      "author_email_sha256": "aeeb8d3877f31c738f3bc868ea0c714dd996ba32fbb38f35fc43670c60f62ea9",
+      "author_name_declared": "Likhithsai2580",
+      "authored_at_declared": "2024-10-03T19:30:48+05:30",
+      "sha": "9323a57678bad81646da409df27d21c754fc3297",
+      "subject": "devs do code javis-agi inteegration"
+    },
+    {
+      "author_email_sha256": "33401fa0fb4b8f1531a9bd1ba9d08c10a407320d2d49a6fbaeacd52af3012b43",
+      "author_name_declared": "LuckyMod",
+      "authored_at_declared": "2024-09-09T20:44:03+05:30",
+      "sha": "6590068bbd82c7ea132961508a48372a9249d71b",
+      "subject": "Update FUNDING.yml"
+    },
+    {
+      "author_email_sha256": "33401fa0fb4b8f1531a9bd1ba9d08c10a407320d2d49a6fbaeacd52af3012b43",
+      "author_name_declared": "LuckyMod",
+      "authored_at_declared": "2024-09-07T12:59:48+05:30",
+      "sha": "5cb6d2ef3d429d7ced1302b4d8d0d8370b1efad3",
+      "subject": "Update README.md"
+    },
+    {
+      "author_email_sha256": "33401fa0fb4b8f1531a9bd1ba9d08c10a407320d2d49a6fbaeacd52af3012b43",
+      "author_name_declared": "LuckyMod",
+      "authored_at_declared": "2024-09-07T12:58:54+05:30",
+      "sha": "276511bbdc6098a39a397f2c7f732a0278bedf2f",
+      "subject": "Update README.md"
+    },
+    {
+      "author_email_sha256": "aeeb8d3877f31c738f3bc868ea0c714dd996ba32fbb38f35fc43670c60f62ea9",
+      "author_name_declared": "Likhithsai2580",
+      "authored_at_declared": "2024-09-07T12:34:13+05:30",
+      "sha": "fe65d9fd6d29de11b409280128df7699cfcd4ffa",
+      "subject": "update"
+    },
+    {
+      "author_email_sha256": "33401fa0fb4b8f1531a9bd1ba9d08c10a407320d2d49a6fbaeacd52af3012b43",
+      "author_name_declared": "LuckyMod",
+      "authored_at_declared": "2024-08-25T07:59:22+05:30",
+      "sha": "195bf4793db257983d35cecb7177bc1c3a73fe02",
+      "subject": "Update README.md"
+    },
+    {
+      "author_email_sha256": "33401fa0fb4b8f1531a9bd1ba9d08c10a407320d2d49a6fbaeacd52af3012b43",
+      "author_name_declared": "LuckyMod",
+      "authored_at_declared": "2024-08-23T14:24:58+05:30",
+      "sha": "38bbf08ef842690c102ce3615815b14f649540d0",
+      "subject": "Create FUNDING.yml"
+    },
+    {
+      "author_email_sha256": "aeeb8d3877f31c738f3bc868ea0c714dd996ba32fbb38f35fc43670c60f62ea9",
+      "author_name_declared": "hackersareherewhereareyou",
+      "authored_at_declared": "2024-08-23T10:09:02+05:30",
+      "sha": "3a004d9564fa9bca376edae5d9500fd2b5fbaa60",
+      "subject": "Update readme.md"
+    },
+    {
+      "author_email_sha256": "aeeb8d3877f31c738f3bc868ea0c714dd996ba32fbb38f35fc43670c60f62ea9",
+      "author_name_declared": "hackersareherewhereareyou",
+      "authored_at_declared": "2024-08-23T10:03:12+05:30",
+      "sha": "005055636f86f721e4597f397d593df85ba5aa7f",
+      "subject": "merge"
+    },
+    {
+      "author_email_sha256": "aeeb8d3877f31c738f3bc868ea0c714dd996ba32fbb38f35fc43670c60f62ea9",
+      "author_name_declared": "hackersareherewhereareyou",
+      "authored_at_declared": "2024-08-23T10:02:01+05:30",
+      "sha": "b7c18a94adeeb872fd5b2f37fb973ce244f5dafe",
+      "subject": "merge"
+    },
+    {
+      "author_email_sha256": "33401fa0fb4b8f1531a9bd1ba9d08c10a407320d2d49a6fbaeacd52af3012b43",
+      "author_name_declared": "LuckyMod",
+      "authored_at_declared": "2024-08-23T09:59:28+05:30",
+      "sha": "9970a2a5c0b74385f01ab9c2347d77768b133f49",
+      "subject": "Update issue templates"
+    },
+    {
+      "author_email_sha256": "33401fa0fb4b8f1531a9bd1ba9d08c10a407320d2d49a6fbaeacd52af3012b43",
+      "author_name_declared": "LuckyMod",
+      "authored_at_declared": "2024-08-23T09:58:55+05:30",
+      "sha": "5d169f646b9b3b39eb38b98d997be75d3e7c72aa",
+      "subject": "Create SECURITY.md"
+    },
+    {
+      "author_email_sha256": "33401fa0fb4b8f1531a9bd1ba9d08c10a407320d2d49a6fbaeacd52af3012b43",
+      "author_name_declared": "LuckyMod",
+      "authored_at_declared": "2024-08-23T09:58:38+05:30",
+      "sha": "8ae81232634fde3930e025148d47dd490da6e42e",
+      "subject": "Update CONTRIBUTING.md"
+    },
+    {
+      "author_email_sha256": "33401fa0fb4b8f1531a9bd1ba9d08c10a407320d2d49a6fbaeacd52af3012b43",
+      "author_name_declared": "LuckyMod",
+      "authored_at_declared": "2024-08-23T09:58:08+05:30",
+      "sha": "2780feb7f8302e46c7e11ac9d875d77a04869112",
+      "subject": "Create CONTRIBUTING.md"
+    },
+    {
+      "author_email_sha256": "33401fa0fb4b8f1531a9bd1ba9d08c10a407320d2d49a6fbaeacd52af3012b43",
+      "author_name_declared": "LuckyMod",
+      "authored_at_declared": "2024-08-23T09:54:57+05:30",
+      "sha": "baccfaaf46e48394f8c69bf867c7f558ec5f54c0",
+      "subject": "Create CODE_OF_CONDUCT.md"
+    },
+    {
+      "author_email_sha256": "aeeb8d3877f31c738f3bc868ea0c714dd996ba32fbb38f35fc43670c60f62ea9",
+      "author_name_declared": "hackersareherewhereareyou",
+      "authored_at_declared": "2024-08-22T16:43:29+05:30",
+      "sha": "78f68f3a96fb2e0e0099b4e9aba3767603123719",
+      "subject": "main"
+    },
+    {
+      "author_email_sha256": "aeeb8d3877f31c738f3bc868ea0c714dd996ba32fbb38f35fc43670c60f62ea9",
+      "author_name_declared": "hackersareherewhereareyou",
+      "authored_at_declared": "2024-08-22T11:05:10+05:30",
+      "sha": "5a2b03ec5b952e6f722c53b72d46ba7a27f13fd6",
+      "subject": "initial commit"
+    },
+    {
+      "author_email_sha256": "aeeb8d3877f31c738f3bc868ea0c714dd996ba32fbb38f35fc43670c60f62ea9",
+      "author_name_declared": "hackersareherewhereareyou",
+      "authored_at_declared": "2024-08-21T21:25:31+05:30",
+      "sha": "e5dea6ac7628c8a6da13e3155b947b69d6514a72",
+      "subject": "initial"
+    },
+    {
+      "author_email_sha256": "33401fa0fb4b8f1531a9bd1ba9d08c10a407320d2d49a6fbaeacd52af3012b43",
+      "author_name_declared": "LuckyMod",
+      "authored_at_declared": "2024-08-18T16:10:26+05:30",
+      "sha": "0c93c17331b74c624ca79f8ab8cd01b10b87eb66",
+      "subject": "Initial commit"
+    }
+  ],
+  "file_count_recorded": 304,
+  "file_inventory_truncated_at_25000": false,
+  "files": [
+    {
+      "git_blob_oid": "6200e3cb5c1187ba1deaca62eb06b9586cc3b716",
+      "mode": "100644",
+      "path": ".github/FUNDING.yml",
+      "sha256": "f3fe7bc0aa6fcdbbb84b437e9667721df7bb3af66012a31d946c338462bd6b42"
+    },
+    {
+      "git_blob_oid": "dd84ea7824f11be1eeda22377549cbc1aec7f980",
+      "mode": "100644",
+      "path": ".github/ISSUE_TEMPLATE/bug_report.md",
+      "sha256": "0c8d64f29fb4536513653bf8c97da30f3340e2041b91c8952db1515d6b23a7b3"
+    },
+    {
+      "git_blob_oid": "48d5f81fa422964dd1eea360efdecfc5dc9a6c87",
+      "mode": "100644",
+      "path": ".github/ISSUE_TEMPLATE/custom.md",
+      "sha256": "a062d66844de4e399924f13739309fcd6fa478edca7a6733ba2f9bdb85b9f45d"
+    },
+    {
+      "git_blob_oid": "bbcbbe7d61558adde3cbfd0c7a63a67c27ed6d30",
+      "mode": "100644",
+      "path": ".github/ISSUE_TEMPLATE/feature_request.md",
+      "sha256": "1f48c52f209a971b8e7eae4120144d28fcf8ee38a7778a7b4d8cf1ab356617d2"
+    },
+    {
+      "git_blob_oid": "496523ebf8a2f8179732701a82e626efb6977e8c",
+      "mode": "100644",
+      "path": ".github/workflows/aegis-ip-shield.yml",
+      "sha256": "6b128bd094d276f1cbe06adb086ac00a7489b6131663092ec8ffe077d54ac56b"
+    },
+    {
+      "git_blob_oid": "926c7e53a714737d10ea801013808bba4a7f29e9",
+      "mode": "100644",
+      "path": ".github/workflows/snorkell-auto-documentation.yml",
+      "sha256": "1c71bf3d8f9f76920b8cafe06c8407a3de0c5492a92caf6abbf13b5010f1b8b4"
+    },
+    {
+      "git_blob_oid": "82f927558a3dff0ea8c20858856e70779fd02c93",
+      "mode": "100644",
+      "path": ".gitignore",
+      "sha256": "1674ac8ed7488af605be80c1f3a20bc1f4c2b47b8549346722948385ffc87e8c"
+    },
+    {
+      "git_blob_oid": "81d77c6fe029d7a0a2a2cbd2ad1239d92ed7e1cb",
+      "mode": "100644",
+      "path": "ASSETS/CLAP_DETECTS/MODELS/Model.txt",
+      "sha256": "dc067178587ced0720e6c442dbc08ab1c132db08c21eca226c4f416862ffa598"
+    },
+    {
+      "git_blob_oid": "8f60ebabbae267be6f1e442b2718731e386a83f1",
+      "mode": "100644",
+      "path": "ASSETS/SOUNDS/activation_sound.wav",
+      "sha256": "0f88a6c1bad8cfaff58969c9b694c4815f350ec5ed277bb39e1b1448398d0c46"
+    },
+    {
+      "git_blob_oid": "0f7709b63252147fe788a0c0f4d78aeae980ce74",
+      "mode": "100644",
+      "path": "ASSETS/SOUNDS/audio_file.mp3",
+      "sha256": "4963b352277e8dcd9f8c1727e96a73085bbc9c316beb4af348c8b3ff4e0d8c9e"
+    },
+    {
+      "git_blob_oid": "3caba77c45ad230ba4e9359feffe532c94946a95",
+      "mode": "100644",
+      "path": "ASSETS/SOUNDS/deactivation_sound.wav",
+      "sha256": "2dd59d24ae653966ae2c1ce781d351a52ab6fd2544930894246bf6353a2ba108"
+    },
+    {
+      "git_blob_oid": "e960dc95736f29cfb5d9c2273903b3d2423f1ae8",
+      "mode": "100644",
+      "path": "ASSETS/STREAM_AUDIOS/output_audio_10.mp3",
+      "sha256": "5ed37c03a53e89d9fc1c299b377e99390889cc4bbb9f62bd3a32cb95263bed32"
+    },
+    {
+      "git_blob_oid": "230cc0ce2aeecc3bc3f688941525655634bfd1d6",
+      "mode": "100644",
+      "path": "ASSETS/STREAM_AUDIOS/output_audio_11.mp3",
+      "sha256": "bf5d1ed6280b7ecf0f7a12bcaab1c2dfe39e68c12e6b70208ed7be025d1346cc"
+    },
+    {
+      "git_blob_oid": "4f980acbdbc1e03672bbcc6719bc270326093d56",
+      "mode": "100644",
+      "path": "ASSETS/STREAM_AUDIOS/output_audio_12.mp3",
+      "sha256": "ee6de9b979937eefcf55832043a9204092551b865758f77f375ef12cb39e568f"
+    },
+    {
+      "git_blob_oid": "589685bb0952a5987a76b3d2e5bef17657f2079b",
+      "mode": "100644",
+      "path": "ASSETS/STREAM_AUDIOS/output_audio_13.mp3",
+      "sha256": "03094e2128838611a7d402d7029740026cd0b6d937c333e3f891f272d5927a06"
+    },
+    {
+      "git_blob_oid": "70ee0f0e5585116fa4b291c5ad20c9520438ff9d",
+      "mode": "100644",
+      "path": "ASSETS/STREAM_AUDIOS/output_audio_14.mp3",
+      "sha256": "0f7aa0e58fd9646a8f857035dce3817ef8cedee6c8e0bf17ee45e64353ee212a"
+    },
+    {
+      "git_blob_oid": "8da3a4414525984597f73ca6d0f535b2c8188340",
+      "mode": "100644",
+      "path": "ASSETS/STREAM_AUDIOS/output_audio_15.mp3",
+      "sha256": "b1fc7ee73b3bab145b5cd73eea11b66c7e214e8ac4bac9ce57b2bb9b9d52afba"
+    },
+    {
+      "git_blob_oid": "711ddfc75f159b3bb799b7f3f9de10b888954b06",
+      "mode": "100644",
+      "path": "ASSETS/STREAM_AUDIOS/output_audio_16.mp3",
+      "sha256": "8da133f3b4b845277d08ff5f021e79d09c66ebeb8389d4835a6975d0abd66924"
+    },
+    {
+      "git_blob_oid": "90220f82a4e5d976bcc6680c339ef7ee2c9816cd",
+      "mode": "100644",
+      "path": "ASSETS/STREAM_AUDIOS/output_audio_17.mp3",
+      "sha256": "a2d3b9603c7fdbb06170935e66c8d3b7047aee66dd1a40bc988f70d619c79839"
+    },
+    {
+      "git_blob_oid": "df66f651fe8fb53ecbffc9f505dc19fa51f5dfca",
+      "mode": "100644",
+      "path": "ASSETS/STREAM_AUDIOS/output_audio_18.mp3",
+      "sha256": "e9afe5ab9d5e47500a26eb4738facfca170144f67cef756d69f1de0bdbfa465b"
+    },
+    {
+      "git_blob_oid": "d30fca3204bd53d30693b5413837a232de198964",
+      "mode": "100644",
+      "path": "ASSETS/STREAM_AUDIOS/output_audio_19.mp3",
+      "sha256": "090dcde7ad2f9cd9fac2827f9e889813c8bed796bd5f5d4c71cda7377417b5e5"
+    },
+    {
+      "git_blob_oid": "76b094434ae3c6478f841b8c274acc65f389d75e",
+      "mode": "100644",
+      "path": "ASSETS/STREAM_AUDIOS/output_audio_20.mp3",
+      "sha256": "3f94ffb1b073c0abe1a76ee103813223428853eec737307a74f8e5bb6b5cfb2f"
+    },
+    {
+      "git_blob_oid": "bdf85b0828ddef5ac32edbef3d7fef318d133be1",
+      "mode": "100644",
+      "path": "ASSETS/STREAM_AUDIOS/output_audio_6.mp3",
+      "sha256": "d15f86b335920893dc55a7f9e15dd0f7a505ea9fe95a63e3f5af0b78eac1dfb1"
+    },
+    {
+      "git_blob_oid": "8c76831f54e65cde845d8090d77e00e22237d001",
+      "mode": "100644",
+      "path": "ASSETS/STREAM_AUDIOS/output_audio_7.mp3",
+      "sha256": "211b164f26a20c45b65d5ed895612a9ad2f9bc0d5d3c1d04b62ca6b6eea668cc"
+    },
+    {
+      "git_blob_oid": "52ea93edb2926fbdf0f4a01ac9f0723db0280367",
+      "mode": "100644",
+      "path": "ASSETS/STREAM_AUDIOS/output_audio_8.mp3",
+      "sha256": "312c3f17278ee347484cbecbe9091b260ca78062d79d1b451fa30d5b7597ef62"
+    },
+    {
+      "git_blob_oid": "2ccf21580573d36d8a54a77c8b0a32daee6b074e",
+      "mode": "100644",
+      "path": "ASSETS/STREAM_AUDIOS/output_audio_9.mp3",
+      "sha256": "1805ffd07616b22825c75568d41d927d887fc9b42de36e50b0e84600a03ce3e1"
+    },
+    {
+      "git_blob_oid": "a4b3e1a5c67e9440c45b87bf49855927e796d4c3",
+      "mode": "100644",
+      "path": "ASSETS/USERDATA/LE CHAT/How_To_Store_UserData.txt",
+      "sha256": "a9dfa8ccf749bca5005df173a9d252cc6cc8a6bbf96e963c04c397409ec4a13d"
+    },
+    {
+      "git_blob_oid": "a7f79317d4bc64b0a46136c46728b64a0bd056e5",
+      "mode": "100644",
+      "path": "ASSETS/Vosk/vosk-model-small-en-us-0.15/README",
+      "sha256": "c0cf286e4f7783306c5f6469b37db69228fb16803b03cae661edb2d7bba64ebb"
+    },
+    {
+      "git_blob_oid": "5596b31d4fb9735918975e48abfc04582a561393",
+      "mode": "100644",
+      "path": "ASSETS/Vosk/vosk-model-small-en-us-0.15/am/final.mdl",
+      "sha256": "75370a0137f9daf8f469dedd7daa4513ae7a621f03240c6e512e2b50b656a7b6"
+    },
+    {
+      "git_blob_oid": "eaa40c5b7020b73b32ddf11ee6da84796fe96c75",
+      "mode": "100644",
+      "path": "ASSETS/Vosk/vosk-model-small-en-us-0.15/conf/mfcc.conf",
+      "sha256": "1e2228006d01d805ad1c267fee9f79709ca87ac51bd82b0e3f5c69ba543f0fc4"
+    },
+    {
+      "git_blob_oid": "9d5b0da33487689a89517f3e7e8a21a9ca3a2996",
+      "mode": "100644",
+      "path": "ASSETS/Vosk/vosk-model-small-en-us-0.15/conf/model.conf",
+      "sha256": "8f14cb1eeb07c762c371db648c6be688d347236155ca0f64fb13b6567a8ce81f"
+    },
+    {
+      "git_blob_oid": "1f292e6398e94f0c99707d9b205f26056ffb6ac8",
+      "mode": "100644",
+      "path": "ASSETS/Vosk/vosk-model-small-en-us-0.15/graph/Gr.fst",
+      "sha256": "023c8b7e30704a9e37765c635c252e608a02f361235bf94abdcf2a5225d85b20"
+    },
+    {
+      "git_blob_oid": "9797b2628cba6119d8b9a7dbd9a2cd78126e4075",
+      "mode": "100644",
+      "path": "ASSETS/Vosk/vosk-model-small-en-us-0.15/graph/HCLr.fst",
+      "sha256": "5caafba3081e1646545ac6bff0dd7a318e53dcbdc86f237909ce1d2ac1293d34"
+    },
+    {
+      "git_blob_oid": "762fd5f0e295302d4a3e3e3394cdf7d0690babc9",
+      "mode": "100644",
+      "path": "ASSETS/Vosk/vosk-model-small-en-us-0.15/graph/disambig_tid.int",
+      "sha256": "9ad87cc166d0998f08f758f47a6223a120dfffcbee805c4849c3aa5e6bb3c0fc"
+    },
+    {
+      "git_blob_oid": "df23fd7cbe143c944980a97ee4093b77816c0824",
+      "mode": "100644",
+      "path": "ASSETS/Vosk/vosk-model-small-en-us-0.15/graph/phones/word_boundary.int",
+      "sha256": "da199d9c991e0e84681ddbb34627b915b26302d50a8fdaa23c51e2bc3a50b5c3"
+    },
+    {
+      "git_blob_oid": "db789eb992be85f114f5e740b799de6489fac46e",
+      "mode": "100644",
+      "path": "ASSETS/Vosk/vosk-model-small-en-us-0.15/ivector/final.dubm",
+      "sha256": "8c5d7dd69d2122313baaf19f61f35dd3fa18b70c62ac0687e311e1c46e6daca7"
+    },
+    {
+      "git_blob_oid": "93737bf720d6e9e3eed4d0e87431614e33f533b8",
+      "mode": "100644",
+      "path": "ASSETS/Vosk/vosk-model-small-en-us-0.15/ivector/final.ie",
+      "sha256": "3f37faf90c375b9e4740b569398b5829ed9cc07d19be6d441f72c3b71d7efcc6"
+    },
+    {
+      "git_blob_oid": "c3ec635b40394e0c66ffacc4f2c908d86fa93d48",
+      "mode": "100644",
+      "path": "ASSETS/Vosk/vosk-model-small-en-us-0.15/ivector/final.mat",
+      "sha256": "ddd83586dc5f928cda8738b922c85ffe38fc789cb5f9151a712ca12f37265382"
+    },
+    {
+      "git_blob_oid": "b9d92efbf823f043d179a73b688f28838d256686",
+      "mode": "100644",
+      "path": "ASSETS/Vosk/vosk-model-small-en-us-0.15/ivector/global_cmvn.stats",
+      "sha256": "33be09afcc80059847a275c3d043b51f1ab954c7c2438ddbbf4745e8ba144ff9"
+    },
+    {
+      "git_blob_oid": "7748a4a4dd395ce5cde4c47d968307e8d0fc2ada",
+      "mode": "100644",
+      "path": "ASSETS/Vosk/vosk-model-small-en-us-0.15/ivector/online_cmvn.conf",
+      "sha256": "a2f3571754b64297cb7efb2e7ca3df61995c5a45fcbb97188f90613552bb2dfe"
+    },
+    {
+      "git_blob_oid": "960cd2e4c23521e5aecdd6627209c79a693073ff",
+      "mode": "100644",
+      "path": "ASSETS/Vosk/vosk-model-small-en-us-0.15/ivector/splice.conf",
+      "sha256": "9f0c5f7c82d18eaf25d8bce470efa9f7741f88411fe428774bc0a9bb69a24756"
+    },
+    {
+      "git_blob_oid": "b5de5ec54ee0303b9ddaa89acd844b8143ce5627",
+      "mode": "100644",
+      "path": "ASSETS/available_working_proxies.txt",
+      "sha256": "fa280bfa750d0e52b7245b9bf98893f504f32c0fa4410123050b43f6d148fa04"
+    },
+    {
+      "git_blob_oid": "6282c77b2ee190373b5e5c31553e3118f99ab26a",
+      "mode": "100644",
+      "path": "ASSETS/conversation_history.json",
+      "sha256": "4c25f8cb2c53223e3ee6643de673605708fb0eb855552234a0d7a4c618a6eec0"
+    },
+    {
+      "git_blob_oid": "6d2db2cdaeb8aecec3cade87bf293d14a7a85761",
+      "mode": "100644",
+      "path": "ASSETS/openGPT_IDs.txt",
+      "sha256": "51181f7181db4919e05e0527c316265eebefd3e556a2b226440d0db9c70a835f"
+    },
+    {
+      "git_blob_oid": "045cd6899496275b0262023aac85ba4e8c307f93",
+      "mode": "100644",
+      "path": "BRAIN/AI/IMAGE/decohere_ai.py",
+      "sha256": "25596ecb60cce8be25bc79a53524fa2c41abee3f1cad2dca619e27ff74e611b0"
+    },
+    {
+      "git_blob_oid": "3ef655c9549d775cb44dadb2f929e802a38483bc",
+      "mode": "100644",
+      "path": "BRAIN/AI/IMAGE/deepInfra_IMG.py",
+      "sha256": "b8237ee31e421e9b378abeaae95303133fca0904539ee67a814482e58e085459"
+    },
+    {
+      "git_blob_oid": "09f3bb29c03a43b5d92ee905a6ae5367bf931264",
+      "mode": "100644",
+      "path": "BRAIN/AI/TEXT/API/Blackbox_ai.py",
+      "sha256": "72ba59989f1b6e29672c78d07fd02c6632614c9585a90f0c036c6267704412d0"
+    },
+    {
+      "git_blob_oid": "7a87dc65b1036567687d7e3a9ed5ef8e0c6a5b86",
+      "mode": "100644",
+      "path": "BRAIN/AI/TEXT/API/Bnn_GPT.py",
+      "sha256": "c3408cde723fe3fec7842780ec1c5de25198c50c3484a20b8579920736e94961"
+    },
+    {
+      "git_blob_oid": "c8214b3f01746c71319b624505d65ea979bd9f76",
+      "mode": "100644",
+      "path": "BRAIN/AI/TEXT/API/Editee.py",
+      "sha256": "2811f4ec0316c6696c510cfeb6d169ebc78372f86c1019b6acc6e761d009800d"
+    },
+    {
+      "git_blob_oid": "0310281eddb99041cd06ce2ca361db0ade12c31b",
+      "mode": "100644",
+      "path": "BRAIN/AI/TEXT/API/FarFalle.py",
+      "sha256": "fdfa93cb07fd7d498ff1a8892cf5ce37cf1e47afc31965729a255003d6a78cc4"
+    },
+    {
+      "git_blob_oid": "442710b7eb29f95c939333a9fa987541d558cbb8",
+      "mode": "100644",
+      "path": "BRAIN/AI/TEXT/API/Hugging_Face_TEXT.py",
+      "sha256": "ff244a9c665ccae9e4d6c9087e7d828fabcad092252554a556d3abe6616ed320"
+    },
+    {
+      "git_blob_oid": "3ccd9df1668469cb3ade47629d252bf0e190a3d1",
+      "mode": "100644",
+      "path": "BRAIN/AI/TEXT/API/Le_Chat.py",
+      "sha256": "27b4c251115330222678719da76475e649f6c883524590495d817917cbaf32ad"
+    },
+    {
+      "git_blob_oid": "3450bff01d3f08ff65b2f7bf9e498fa2c7097163",
+      "mode": "100644",
+      "path": "BRAIN/AI/TEXT/API/Phind.py",
+      "sha256": "8e5b9fb67f6bce58ade5da2464bbd0600db4144b548146a2145876f68d4ef8b4"
+    },
+    {
+      "git_blob_oid": "003efcf06ff786cf7e28c20703a9d258ef77ae51",
+      "mode": "100644",
+      "path": "BRAIN/AI/TEXT/API/Pi_Ai.py",
+      "sha256": "fc1d22c2c27e811d04d93160a88a813be66119d094a6c817cd82dcfcb9094b62"
+    },
+    {
+      "git_blob_oid": "7f7c40c897f119486dff903710c807b5abfe25f1",
+      "mode": "100644",
+      "path": "BRAIN/AI/TEXT/API/Uncensored.py",
+      "sha256": "b0257d52abf4084a99f6b2ea69efee4b899ff3dd122f038fb76460d235201e12"
+    },
+    {
+      "git_blob_oid": "42f9c352e9c20cad1a66476ebdd63aff83ed2ba0",
+      "mode": "100644",
+      "path": "BRAIN/AI/TEXT/API/basedGPT.py",
+      "sha256": "d2490622ea3720c6a51fe689de02f9413af4564cf62a56912045f5953837296d"
+    },
+    {
+      "git_blob_oid": "6fb2ee34602db5032a57aa4a6af15ecd94f72720",
+      "mode": "100644",
+      "path": "BRAIN/AI/TEXT/API/deepInfra_TEXT.py",
+      "sha256": "90337cd96ebbd079b8c27d02ec23d2497e0595c95a83c7febb87a10e1172a509"
+    },
+    {
+      "git_blob_oid": "49ec1b289e42d38b9b49226a70ef1171af1cc1ad",
+      "mode": "100644",
+      "path": "BRAIN/AI/TEXT/API/deepseek_ai.py",
+      "sha256": "e679c21842741661f72530a51d28444c661018f88dc0cd16b3a3fb66f423323a"
+    },
+    {
+      "git_blob_oid": "78a193fe66a6bf670b8935d9eb346daeb3ef8de1",
+      "mode": "100644",
+      "path": "BRAIN/AI/TEXT/API/hugging_chat.py",
+      "sha256": "44097a31f0a2da1d2592e46548d6167ee80d06265eaaaba231cf4cb860872be8"
+    },
+    {
+      "git_blob_oid": "dfac645a7491dca4d4d8e4ff9d9165293dc22031",
+      "mode": "100644",
+      "path": "BRAIN/AI/TEXT/API/liaobots.py",
+      "sha256": "31b7c1221cdf0fc1753a68771b3ef2d37097775aeaea7bba63e072acf6057d30"
+    },
+    {
+      "git_blob_oid": "342078cc373ca8b9f8f16f1844dd3c5ce98eb286",
+      "mode": "100644",
+      "path": "BRAIN/AI/TEXT/API/openGPT.py",
+      "sha256": "f5530714c529f4670a476a136836d56e35dea16514860d7a1e7e587e4b672ea5"
+    },
+    {
+      "git_blob_oid": "56047a4a7cfe5a8fc64615c8c9aa8a99def07902",
+      "mode": "100644",
+      "path": "BRAIN/AI/TEXT/API/openrouter.py",
+      "sha256": "5f5c1e588dbb38fde4c01e7315c3ecac30558aee04f2a969bafc40fba5a13e74"
+    },
+    {
+      "git_blob_oid": "92d1b9be834a6b7d9c6d946995fbd83e7d48f1c3",
+      "mode": "100644",
+      "path": "BRAIN/AI/TEXT/LOCAL/llama_CPP.py",
+      "sha256": "2114fac7dac2bafd8e227443ea534a1d410b36adc3e2266c4f19438e998c3d5b"
+    },
+    {
+      "git_blob_oid": "ea2447631cb87a8ec9370dcae6f5476fb4fbb57e",
+      "mode": "100644",
+      "path": "BRAIN/AI/TEXT/STREAM/basedGPT.py",
+      "sha256": "d1596a7e6a9d620fc17e428098e6f65b91b202a4cc8190a054a60e60cd57dae0"
+    },
+    {
+      "git_blob_oid": "89f369ddb00b30ee2189d7f0bba627b96dcaece5",
+      "mode": "100644",
+      "path": "BRAIN/AI/TEXT/STREAM/deepInfra_TEXT.py",
+      "sha256": "c5f292262796075bd2fcde0c28671ce0db7a662711db2653586abbd2408b277e"
+    },
+    {
+      "git_blob_oid": "7b9b601e00f78b38c7109fc321ca1dd8156ba082",
+      "mode": "100644",
+      "path": "BRAIN/AI/VISION/deepInfra_VISION.py",
+      "sha256": "9aab06f4a79acdd2bcb54d5d964ab4fce7192e90fe55172243c24936d501386d"
+    },
+    {
+      "git_blob_oid": "2a1ece71c3245fdb30fcd7ca181be0906885d6d7",
+      "mode": "100644",
+      "path": "BRAIN/TOOLS/groq_web_access.py",
+      "sha256": "93b888c98b217c2433bab562bd475aa9f191a0365b4fb18f50b95a98087d98b3"
+    },
+    {
+      "git_blob_oid": "70b69327d61293da15edab21809b5aeb1fbe1a18",
+      "mode": "100644",
+      "path": "CODE_OF_CONDUCT.md",
+      "sha256": "dedf7fb1827a4132a4b81c05ae9713540ead7e01d297d7d875b5eda47d3f0704"
+    },
+    {
+      "git_blob_oid": "8d186fa324a27cd38338304f0af28b3ed5c43532",
+      "mode": "100644",
+      "path": "CONTRIBUTING.md",
+      "sha256": "3467b71d36b3f0fc5579d224c18a13798705752f2c383104c92a00379d8e28e8"
+    },
+    {
+      "git_blob_oid": "b1db347294b74d948941a70012f0476ea65f33d3",
+      "mode": "100644",
+      "path": "ENGINE/STT/DevsDoCode.py",
+      "sha256": "0dbb4bf48bac0f4eb156c7a7cd9243c0869168bf58d1d1bdc12f975a18a1fbc5"
+    },
+    {
+      "git_blob_oid": "c7f73c9367ec3eac0407724dff85d1a1779df9da",
+      "mode": "100644",
+      "path": "ENGINE/STT/NetHyTech.py",
+      "sha256": "0619838698b689294b49dd3e4cc92f0765e2279a427423b8b27536cc4eeac5bf"
+    },
+    {
+      "git_blob_oid": "19a166c1f55bb6515226650a0f165639e5b850d1",
+      "mode": "100644",
+      "path": "ENGINE/STT/src/index.html",
+      "sha256": "7029a363a8befdefe405422b94379fdd6fe61d5059da4153789748bb7dd05b6f"
+    },
+    {
+      "git_blob_oid": "f2b647f2340d4bb0b6d732014d5dc23b14b65d3c",
+      "mode": "100644",
+      "path": "ENGINE/STT/vosk_recog.py",
+      "sha256": "bac195c04ad7960d44645e92d60bb7177802b0cdaa4ff488340e9910aa45a304"
+    },
+    {
+      "git_blob_oid": "1d304ee77f574e87c41dafbbad43c55dee5b50d8",
+      "mode": "100644",
+      "path": "ENGINE/TTS/DeepGram.py",
+      "sha256": "4028651ebc0dbe470a8b78cf9b8130fe3c8aacac5e4f2f2d6c1dfbaa1a1d7aa6"
+    },
+    {
+      "git_blob_oid": "7f3377e0cd7fb10d2ad21e2259225fd2bb5e2258",
+      "mode": "100644",
+      "path": "ENGINE/TTS/ElevenLabs.py",
+      "sha256": "928da51254031af8321d370662735d4026d526fc761342e524a1b336eb5e8d59"
+    },
+    {
+      "git_blob_oid": "b9c19b2726105489606e940dc509f264bc8d092f",
+      "mode": "100644",
+      "path": "ENGINE/TTS/STREAMING/DeepGram.py",
+      "sha256": "f2562b8eb8b36edd9d58306d3f8539402ead44985775820433135e60a5694b83"
+    },
+    {
+      "git_blob_oid": "1485e5949871c70e4fd2dd9f336abdd72e993f31",
+      "mode": "100644",
+      "path": "ENGINE/TTS/STREAMING/speechify.py",
+      "sha256": "5120dbb481ca87e269b97ece99d8c361e4a132af3c503201e25dd155a3001b35"
+    },
+    {
+      "git_blob_oid": "68ccf9a6594d009236d03e4e11d9153b2e764e24",
+      "mode": "100644",
+      "path": "ENGINE/TTS/ai_voice.py",
+      "sha256": "29d464c85ad8081e07bb3a06cdf8b14d30cfef12f6103bf5a46fe935fc182bf1"
+    },
+    {
+      "git_blob_oid": "f6a5b554ac476d1711b9b35f6ec2dcf7377a0fd5",
+      "mode": "100644",
+      "path": "ENGINE/TTS/deepAI.py",
+      "sha256": "01c9ac634eac133576c6cd1ea307977b54397411aac010ed1fe91150fcf99a1b"
+    },
+    {
+      "git_blob_oid": "4d771e3a99896484460f7023ec8a917697f10a1e",
+      "mode": "100644",
+      "path": "ENGINE/TTS/edge_tts.py",
+      "sha256": "2b8d3a42b4ad37589a81450a3590841b310b2c6147bd0271636e39883ac129dc"
+    },
+    {
+      "git_blob_oid": "43f0643de952b43d8b161500dc0adec1735cae15",
+      "mode": "100644",
+      "path": "ENGINE/TTS/hearling.py",
+      "sha256": "e1e7db15170ebfe2dffb00c407a99ebdfdfad00df034f3b6092ac57ec16baacb"
+    },
+    {
+      "git_blob_oid": "24d806501067ad228a493f09433b40aab3c5ebdb",
+      "mode": "100644",
+      "path": "ENGINE/TTS/speechify.py",
+      "sha256": "63fc6eddd18e5d99cf8cca62abf164b06c0a395611da55143ebc8543c480ce23"
+    },
+    {
+      "git_blob_oid": "63d3cc9f7098814f2f8d4a30a767cf96b8cdf56d",
+      "mode": "100644",
+      "path": "ENGINE/TTS/stream_elements_api.py",
+      "sha256": "9afa21ab5dbb106e65173b0a4ce411618c72e9c9dc6f7614a6ab5d4ec5a43a4d"
+    },
+    {
+      "git_blob_oid": "c8aa243cb011e24bcc8f562ca67b86fa573ccf57",
+      "mode": "100644",
+      "path": "EXTENSION_API.md",
+      "sha256": "4fbb1f6d761f4c2b929e65f08c2c430046e46a23367be7562c19e4df6c637825"
+    },
+    {
+      "git_blob_oid": "9967a776716f48b810b3fa94904c955465233565",
+      "mode": "100644",
+      "path": "EXTENSION_DEVELOPMENT.md",
+      "sha256": "381befca05dc72cc3817bac9f24862e26cd0c6ade93653cb8d1dd94562c1bba1"
+    },
+    {
+      "git_blob_oid": "8272f7285eca7fa5f96a3bc3ecbc361900c521a1",
+      "mode": "100644",
+      "path": "IMPORTS.py",
+      "sha256": "5d35b0d8d0e82a366fbd8f17288be4139c1be8ba5ef03bdf5a3835c159c2493e"
+    },
+    {
+      "git_blob_oid": "053649a0dbbabb2b327a8660834c069dbf18712b",
+      "mode": "100644",
+      "path": "LICENSE",
+      "sha256": "1248fac7d5cc201c0d5e962651f645f0701dc951d2edc48f8541bba78e65fac1"
+    },
+    {
+      "git_blob_oid": "e4b84805963d225a18a676497a2b8323dd5eb87d",
+      "mode": "100644",
+      "path": "PLAYGROUND/ADB_CALL/ADB COMMANDS.txt",
+      "sha256": "fb08a53a8ce634b04406a80b103febefb1a7fc498d767b17f6f053e4b2f7c9c2"
+    },
+    {
+      "git_blob_oid": "b40cb4810a627665d4ca3e7102e54b4c821504a8",
+      "mode": "100644",
+      "path": "PLAYGROUND/ADB_CALL/Details.txt",
+      "sha256": "0807dbe19da698b623f1b01fadc135d567351cd09ff3bea0fa90ec9f94b764b7"
+    },
+    {
+      "git_blob_oid": "8bea97a34dd4f68e104405f58d0d53cbc0c87ac4",
+      "mode": "100644",
+      "path": "PLAYGROUND/ADB_CALL/IMP Commands.txt",
+      "sha256": "44f8f7fc9572e1101410d73b645c304b68c5d98e3cdcd797a2efbd8a7ccf10f8"
+    },
+    {
+      "git_blob_oid": "f9f6011b5d37e85d6516412ee0ece3aacd95ac3b",
+      "mode": "100644",
+      "path": "PLAYGROUND/ADB_CALL/android_device_connection_setup.py",
+      "sha256": "348039fef72b1e4553dc5a5d8570bb5dbba1b42afda5a7bfaddeaf3c2f4100da"
+    },
+    {
+      "git_blob_oid": "9b3510d6cc7365f51a6dd10f4ef30d763cd0f7ea",
+      "mode": "100644",
+      "path": "PLAYGROUND/ADB_CALL/make_call.py",
+      "sha256": "c68f66e8b97ba2c34fa127ba3b8fad6302ab2543fc068b02ef35ef1821a0ecb1"
+    },
+    {
+      "git_blob_oid": "920e6c491e671071d297f0dffeb6ead2427a413d",
+      "mode": "100644",
+      "path": "PLAYGROUND/ADB_CALL/platform-tools/AdbWinApi.dll",
+      "sha256": "fd96c88a315ba271018c0b54e7d696aba16d6bac132d9afc49b60cb14e4a822c"
+    },
+    {
+      "git_blob_oid": "87e6c20d753b3097ea60e84115a67629b216e287",
+      "mode": "100644",
+      "path": "PLAYGROUND/ADB_CALL/platform-tools/AdbWinUsbApi.dll",
+      "sha256": "25bb8b33eeb702b340defcf078eb249420c885b8f4fedfc3fc56ada66bcdbc14"
+    },
+    {
+      "git_blob_oid": "45e38d4bf4b3c196e9125587df1aea8f0f6700db",
+      "mode": "100644",
+      "path": "PLAYGROUND/ADB_CALL/platform-tools/NOTICE.txt",
+      "sha256": "e7f3ebc2afb76702ef6064db88addbc30047c5961842faa7d1199462934de88c"
+    },
+    {
+      "git_blob_oid": "7b2a27407fee0a262bc3086d43e79349260f6717",
+      "mode": "100644",
+      "path": "PLAYGROUND/ADB_CALL/platform-tools/adb.exe",
+      "sha256": "e1657ca239bcf53f60dd622a8476d51b8df3c2a3169f7b6082142942560627ed"
+    },
+    {
+      "git_blob_oid": "71f4bf052d5f9fcaa4f8807aac714c6dfe8b1e08",
+      "mode": "100644",
+      "path": "PLAYGROUND/ADB_CALL/platform-tools/etc1tool.exe",
+      "sha256": "e99f8dfcf5c528428b3214ec360dbb6cd7331c99c3240ccfdb57cd221ef5213e"
+    },
+    {
+      "git_blob_oid": "1245804027bc23c4676e19d1ff90e45de93ac3d3",
+      "mode": "100644",
+      "path": "PLAYGROUND/ADB_CALL/platform-tools/fastboot.exe",
+      "sha256": "9b9281147b9a79ef7e28b9d6856771933fc08debb33861ce298b3eb9c21715b9"
+    },
+    {
+      "git_blob_oid": "9b330694cce6ca4cd23fe11740f445fa52faa3cb",
+      "mode": "100644",
+      "path": "PLAYGROUND/ADB_CALL/platform-tools/hprof-conv.exe",
+      "sha256": "4c7dfcdfef9e80d6aa66896b79144ce7ffe3d833ddb8a55fc4c1d2b4dd1758e3"
+    },
+    {
+      "git_blob_oid": "9fed1d491784f8bf5381d043a816635215e3b7e6",
+      "mode": "100644",
+      "path": "PLAYGROUND/ADB_CALL/platform-tools/libwinpthread-1.dll",
+      "sha256": "5610ca6415100dac76d2d74b3253b750c71e0c829eba47e4df9ceca30b37f254"
+    },
+    {
+      "git_blob_oid": "751b3f81899b96e1ad9b3f3c529a76188817f613",
+      "mode": "100644",
+      "path": "PLAYGROUND/ADB_CALL/platform-tools/make_f2fs.exe",
+      "sha256": "ddf2fcbae35ec1ba6cecb70c7e7eaf083c9e3e3a0fcaaed34ba3498a7cd2d8f5"
+    },
+    {
+      "git_blob_oid": "8a773bc06fc0f464ec5ba1a69f8abe630cc7c054",
+      "mode": "100644",
+      "path": "PLAYGROUND/ADB_CALL/platform-tools/make_f2fs_casefold.exe",
+      "sha256": "8f889dd894b2bd7dd761f994c3997239ac96388b7574eff40220c04911c89ce3"
+    },
+    {
+      "git_blob_oid": "8ea960da6f2ee25e2e6bb591ed12e61a432cd808",
+      "mode": "100644",
+      "path": "PLAYGROUND/ADB_CALL/platform-tools/mke2fs.conf",
+      "sha256": "ad58a58dcdd24d85055814ca9cac67db89d4e67c434e96774bdce0d0a007d067"
+    },
+    {
+      "git_blob_oid": "7e3fbee028f6bf9586bbd6e01e678ddcf7dd6b80",
+      "mode": "100644",
+      "path": "PLAYGROUND/ADB_CALL/platform-tools/mke2fs.exe",
+      "sha256": "431bc7c2f0ebf52b12d2479dd057d23b59688c4f26d02c355eaade1155388700"
+    },
+    {
+      "git_blob_oid": "db496f68f5dc1185ad572957c8a1605183604aab",
+      "mode": "100644",
+      "path": "PLAYGROUND/ADB_CALL/platform-tools/source.properties",
+      "sha256": "1bba52523d636d294c6a013411f9fcd22cfdee54f8ed1ca684fa5e820f040eee"
+    },
+    {
+      "git_blob_oid": "629a56016fe711a12c0f06de6224667dea3435cc",
+      "mode": "100644",
+      "path": "PLAYGROUND/ADB_CALL/platform-tools/sqlite3.exe",
+      "sha256": "2d3fcc5d9ecb512d492a442893fd504abfbd46b4a0ea30a3950d78f105800c68"
+    },
+    {
+      "git_blob_oid": "c8a5a7b8b9867f2baa360f90f6f12c76afbe64d0",
+      "mode": "100644",
+      "path": "PLAYGROUND/CAMERA/camera_vision.py",
+      "sha256": "8280b41226b8ed879b54f56cc75b9389458354734a1f47af42c5ba294e499c84"
+    },
+    {
+      "git_blob_oid": "5c5adc68f617d4b2be2cf8c839a5fc87d5c4a594",
+      "mode": "100644",
+      "path": "PLAYGROUND/CLAP_NN/ClapDetector.py",
+      "sha256": "ae912cdbeaecf604b4f7df717de8f140fd2be67ed80b141ab607ff9cc904f578"
+    },
+    {
+      "git_blob_oid": "35c2aeaf0197b7c3178331e20eff40e1fbf1b3a2",
+      "mode": "100644",
+      "path": "PLAYGROUND/CLAP_NN/Model_Trainer.py",
+      "sha256": "b244afd1533a1438437d0e85547dc3dc089557d8b53e76eafd96b892c6040c43"
+    },
+    {
+      "git_blob_oid": "2e6baa35439eef12663920d842e3aca4def0a12a",
+      "mode": "100644",
+      "path": "PLAYGROUND/CLAP_NN/audio_inference.py",
+      "sha256": "b2b71f45ea1441040edc292ef83a4495e4f42ee2bfbcbb9656ae9544edc57da9"
+    },
+    {
+      "git_blob_oid": "5351176557c51841857d0c5d4f6e66a62063c330",
+      "mode": "100644",
+      "path": "PLAYGROUND/CLAP_NN/cnn_sound_model.py",
+      "sha256": "6f98054bf5601f8ca23a19d0ac1b104ce731a7afe69d9477bf76a850df129e60"
+    },
+    {
+      "git_blob_oid": "4be0f9a1c4d7ab3b5a5cac09d1e6995615b37a7c",
+      "mode": "100644",
+      "path": "PLAYGROUND/CLAP_NN/load_dataset.py",
+      "sha256": "e4456c5ea4cf889e9af12701bb7e41b39acc715e9ca92db9fda44348650fd214"
+    },
+    {
+      "git_blob_oid": "b7e05cc1b878f4335a47431db7d5fabd2d64604b",
+      "mode": "100644",
+      "path": "PLAYGROUND/WEBSITE_ASSISTANT/chrome_latest_url.py",
+      "sha256": "51baa35945c26fb828c9d9fa5bfc6a632e787afa22c3e77af5703464931dc482"
+    },
+    {
+      "git_blob_oid": "aca268d81aeac2336c4022087dbb5ae52ae21eb5",
+      "mode": "100644",
+      "path": "PLAYGROUND/WEBSITE_ASSISTANT/jenna_reader.py",
+      "sha256": "e2b8a9e16bf22301741f24f5e17b45b1bb4c0433ece595a6267ac6277caf84be"
+    },
+    {
+      "git_blob_oid": "c9c625072b9ec70446852a220495cfbdc87a7569",
+      "mode": "100644",
+      "path": "PROMPTS/BISECTORS.py",
+      "sha256": "26ca750f25c64a8920e5832ec48b28922a34915f1f9736ae25926d35e8499ad2"
+    },
+    {
+      "git_blob_oid": "69b265d3187f7ec0805d8851b954e8e268551765",
+      "mode": "100644",
+      "path": "PROMPTS/INSTRUCTIONS.py",
+      "sha256": "494c29ba9d9145584289cc248025d76e70a9a15d9a89b10b7b5a1ea0b57b0eae"
+    },
+    {
+      "git_blob_oid": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "mode": "100644",
+      "path": "PROMPTS/PROMPTS.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "git_blob_oid": "b956a028f5d1c4878835a13395aadfc0b7f72f74",
+      "mode": "100644",
+      "path": "PROMPTS/SYSTEM.py",
+      "sha256": "7acb6d52a77ed68fb313577a0a716c6815d46299efef542214e81f2980e82211"
+    },
+    {
+      "git_blob_oid": "1d26036e857af6851d2e3ef274e4377364ffdea2",
+      "mode": "100644",
+      "path": "README.md",
+      "sha256": "d9b0ed8a59fa4709abc1ada125553868087253592c172e2a07da7e6d649dd062"
+    },
+    {
+      "git_blob_oid": "034e848032092eaf8ef96eac731b6ed5961987f3",
+      "mode": "100644",
+      "path": "SECURITY.md",
+      "sha256": "ba9643955bfcb04524a6fe5a8c2929b54abc2e67bb3480ce806e742d506e4dc9"
+    },
+    {
+      "git_blob_oid": "c5f13cda27114f6a35bf69feb11951bb4ffd9667",
+      "mode": "100644",
+      "path": "TOOLS/AUDIO/Hotword_Detection.py",
+      "sha256": "feb2c678f87dc8350244c6c081a9ae4fd394ea901c31298aba4ef0594a3e1881"
+    },
+    {
+      "git_blob_oid": "11bc73fcc83c38299faecba31a13fbd871b338b3",
+      "mode": "100644",
+      "path": "TOOLS/AUDIO/Interrupted_Playsound.py",
+      "sha256": "632b70761eb19ab0d9846e59b64a28275b6878f070e7a48b4a6b6f6c4f2157c8"
+    },
+    {
+      "git_blob_oid": "e340b5518a74d94ee88a525f29986ea9d5ab98fb",
+      "mode": "100644",
+      "path": "TOOLS/Alpaca_DS_Converser.py",
+      "sha256": "15873bb46236524c9222a934102c67da427433c7ee2e1f396d649ef04a305cf4"
+    },
+    {
+      "git_blob_oid": "7f254db04924eedf97919f72db1cf189e1a46362",
+      "mode": "100644",
+      "path": "TOOLS/LE_CHAT_COOKIES/Cookie_Extractor.py",
+      "sha256": "82de130bc8a997e4342aa99ab481d0745fdc103ca6240b38fcbb08b2899d19a2"
+    },
+    {
+      "git_blob_oid": "402bc0cc5bf4d2927d834a653076f41956d0c7bf",
+      "mode": "100644",
+      "path": "TOOLS/ProxyAPI.py",
+      "sha256": "e811771aee099a47764f476cf6ad38bd45feed6448495454754f603324e61661"
+    },
+    {
+      "git_blob_oid": "23dcb562aff0a3b7df4dd363491c23069dfb3279",
+      "mode": "100644",
+      "path": "TOOLS/RawDog.py",
+      "sha256": "83af37294755fbffe30db50a8cbaf7b98670eb6bbb216a8450521b66e71ebee8"
+    },
+    {
+      "git_blob_oid": "48d0c0ba4770090624212aca0469bf771442e53f",
+      "mode": "100644",
+      "path": "TOOLS/SYSTEM_SETTINGS/Alarms.py",
+      "sha256": "af58523d13dafe4b27bba5cf137105da5487a1408278c594002b2a6ffef29e89"
+    },
+    {
+      "git_blob_oid": "455c63487189665e4a13c7256c835a6c8935b889",
+      "mode": "100644",
+      "path": "TOOLS/SYSTEM_SETTINGS/SETTING.py",
+      "sha256": "071cd1443c1214f710d624ba50d40dd04e2dcb4a42e89a23e0cdbe339fb8bd59"
+    },
+    {
+      "git_blob_oid": "c12bf15c00ab0de71d9ae8ac0d31f9b490b44665",
+      "mode": "100644",
+      "path": "TOOLS/SYSTEM_SETTINGS/system_theme.py",
+      "sha256": "398f9e1f4bac214438d25c743a89e0e0059555ed8aecd031638a63ac9ed1c244"
+    },
+    {
+      "git_blob_oid": "75d612401f122419321d8de58fec87aa01749fc3",
+      "mode": "100644",
+      "path": "TOOLS/SYSTEM_SETTINGS/taskbar.py",
+      "sha256": "e12630b233603943b4a3f156368354df23fd8a881a68eb5823b3f47cede8471d"
+    },
+    {
+      "git_blob_oid": "a65eec5ddc77df039894e043c042ebb366aaf5ab",
+      "mode": "100644",
+      "path": "TOOLS/TXT_DS_Converser.py",
+      "sha256": "55f6ba3768e77e1f12b2b4b166684821d1ab7ad3f0d792794c1bc5abe2c252fa"
+    },
+    {
+      "git_blob_oid": "46629e33d90364d54d94039fd89964cd759db6eb",
+      "mode": "100644",
+      "path": "TOOLS/TimeComponents.py",
+      "sha256": "c7113c8cc79783f635505c6e1379e8d7e8d4ea634ca0ace6bb44312253bd23c7"
+    },
+    {
+      "git_blob_oid": "9a19b6afff3c16f6859d3acf9a3522f053241a58",
+      "mode": "100644",
+      "path": "TOOLS/TimeComponents_mod.py",
+      "sha256": "a4310b693280e4eb18fca1412d5e97ea46362e22f119fd0eaabc9acce1383fff"
+    },
+    {
+      "git_blob_oid": "12d2b3303b62b3e334dddfc624d8480bafc3debd",
+      "mode": "100644",
+      "path": "TOOLS/Web_Results.py",
+      "sha256": "db9892353927565959d8d6406dab8c22e66e3ab36f8540ed40c53f8177d82c3e"
+    },
+    {
+      "git_blob_oid": "02c979bc5cfa20ce1f802cfb846a9f8f5ea4bf18",
+      "mode": "100644",
+      "path": "TOOLS/stream_audio_cleanup.py",
+      "sha256": "4acd9060ce47303f7876eb86d7c24d0c430e91ed4518bc8f76eafb6537ef5a3c"
+    },
+    {
+      "git_blob_oid": "5dae0842ab2cbe408cbf8ee4ef5a0f28c5496f2a",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/.assets/perplexica-preview.gif",
+      "sha256": "4b8d709c598521456e35b03951c19fdcd77a07881af6200b99c68224dbd5fbd9"
+    },
+    {
+      "git_blob_oid": "c47a544f3b656f0af1e3c2036a3318683edd0bb0",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/.assets/perplexica-screenshot.png",
+      "sha256": "24441f408a5fa6bda0a540d53f9c15b07b1fcbb0b69c7239260819f99b8c2ebd"
+    },
+    {
+      "git_blob_oid": "600e365ec83f8384cb5c98d0379367a7909cd329",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/.dockerignore",
+      "sha256": "e757d1c190be0de43b99ff6b9fc166fea1138bf3c099d78659b9c88093fe4734"
+    },
+    {
+      "git_blob_oid": "a3dd5cc6197bec156f7d58cf9a96fab856b81ff1",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/.gitignore",
+      "sha256": "8b622497aa74e9e6fbe5a0d9056e4f8ab3a077be0ca06a35ad72fc266649f0f3"
+    },
+    {
+      "git_blob_oid": "c184fdbaa236cfc4bd7bc5d3a3e4125068abfa6e",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/.prettierignore",
+      "sha256": "a2fc7252d7eb8db94ba861a4e7c7c9e9bc7ed22599895437900bdd2656389262"
+    },
+    {
+      "git_blob_oid": "1937ff1c7d7dcf2276f452054903f1c8ac0154bd",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/.prettierrc.js",
+      "sha256": "b0fad7ac0fa814c230c47e66af76c7590becc8c86f263b82722b3a6ad36cf53e"
+    },
+    {
+      "git_blob_oid": "c779f91145772ac784473c0d4f3eebeb4730990c",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/CONTRIBUTING.md",
+      "sha256": "48d03c6c0915c2cf6c1eddafd322a25b4e641b4c437bb823ecd382af501d09ee"
+    },
+    {
+      "git_blob_oid": "4c071fab8a0e322abb98241db418e3023334dafd",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/LICENSE",
+      "sha256": "6b250f3eb6d8535397c81d34f0c6ceca5807b0df8e71694502fcd9c09bc73ca7"
+    },
+    {
+      "git_blob_oid": "3c87acc39d6f90baa777abf969ce99fa89e0a226",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/README.md",
+      "sha256": "766e0c4d78ca4c7693ecb98b3bcaf941ed3d1df441b648379d520f0cb2b8ff76"
+    },
+    {
+      "git_blob_oid": "105cf86a3200b5de0722ec5a52a199255b8b8184",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/app.dockerfile",
+      "sha256": "7f7cf073001931d73f0ab2c0d3ea274f217c7784470b00e448609d338651c0ca"
+    },
+    {
+      "git_blob_oid": "4886573a52b71f1bf18513b136f13756ce7a66b9",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/backend.dockerfile",
+      "sha256": "72f63c0cbe1899359ea854cd66f022433327fb8709f7d9cacf3f4e0f4098a48a"
+    },
+    {
+      "git_blob_oid": "d6b7ef32c8478a48c3994dcadc86837f4371184d",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/data/.gitignore",
+      "sha256": "240a3e0d37d2e86b614063f5347eb02d4f99ca6c254de6b82871ff8d95532a7d"
+    },
+    {
+      "git_blob_oid": "d6f9203dcfe6095ffbbaec5d7e26e23a881a90b6",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/docker-compose.yaml",
+      "sha256": "c8d1b033285a6c88565585b9e8e36cd21b985f70b1b6aab2060cbf5b190af3de"
+    },
+    {
+      "git_blob_oid": "b1fcfcbc6b1f28584425d7e19e4094089f65763f",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/docs/architecture/README.md",
+      "sha256": "cb0f840560ce55bb0676e3786fecc42cca4c2b081091bc501ccfb15ea1bad547"
+    },
+    {
+      "git_blob_oid": "e39de7a149d33ec90c712c35bc71e9d5509ca137",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/docs/architecture/WORKING.md",
+      "sha256": "578742459facc341cfe8212ef67e6c7f1384ee01072a6dcf13fc566d746ec5a5"
+    },
+    {
+      "git_blob_oid": "baad2963d18476e084c0ddd4de52adf9ebedcb76",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/docs/installation/NETWORKING.md",
+      "sha256": "600ecc3e9623cdbbb7e6e39b14abe4f1fd1d55a4db1a8ad10c4f00e13cd3c99b"
+    },
+    {
+      "git_blob_oid": "df67775bbcfd1739bfcc6b66e0560b7049e27495",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/docs/installation/UPDATING.md",
+      "sha256": "e01a331fe3c22bbf4d06b8ba13f714b1797ee62c4a1e2e6ea2c5619eb94bc0cd"
+    },
+    {
+      "git_blob_oid": "9ac3ec500275bda7d77eccf8087ab8176a6e2d62",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/drizzle.config.ts",
+      "sha256": "51cb3142dfaf4caf582cbd66d64f0fbf546d83813c7b9a53f5f4884757c4ea32"
+    },
+    {
+      "git_blob_oid": "db3d77393cfb4034a4bd86bf83b687062369b345",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/package.json",
+      "sha256": "5813c492b0b836fc2886480448fc1aa3d367b87ba0ffbc5c2668dcd7e95cc67c"
+    },
+    {
+      "git_blob_oid": "ae69bd36a3bc7d1e1d23c7242105cd61fb82cf25",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/searxng/limiter.toml",
+      "sha256": "b6d81d14143043e40a4897af9689b8bf9bc2a39174fd17f9b57549ae020471df"
+    },
+    {
+      "git_blob_oid": "da973c15a1d81c2c935b64e9ad7ca2a5678b5922",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/searxng/settings.yml",
+      "sha256": "bfc4eef59769ec701c140afe319ec9e9bb59ffe4ac3e20cfc310d40dfb7a50ab"
+    },
+    {
+      "git_blob_oid": "dd1247a75b1fed679a00a7a2ad5355d278a40e49",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/searxng/uwsgi.ini",
+      "sha256": "2f765edac55b36df4cdd438697e28c496a80c49d476b3c523a080d69ab433883"
+    },
+    {
+      "git_blob_oid": "d7971194a910dbd153225b44d2efc009ed6566f4",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/src/agents/academicSearchAgent.ts",
+      "sha256": "8f66745922dd490dec7724ad30203aa8569cfd1ec5989e8fb76530c6bb8cb2fa"
+    },
+    {
+      "git_blob_oid": "167019ff9a1ec09ee81af26f296c55fb1a9be262",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/src/agents/imageSearchAgent.ts",
+      "sha256": "0d815871dbe61f918cafe230d63d6eefa6d0baead2462fa9d39762d41d3d4328"
+    },
+    {
+      "git_blob_oid": "578e2bb999432f5aa8a54c2d460b2af5a80b95f2",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/src/agents/redditSearchAgent.ts",
+      "sha256": "4cb224484d333dcbc8b528935968a251d197ddca4bba74c1e6b35a480afba600"
+    },
+    {
+      "git_blob_oid": "6ba255dc047246eaf8872ac5b9946bc7fbc9fd6a",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/src/agents/suggestionGeneratorAgent.ts",
+      "sha256": "36caa8b230f93e4cbc22d92d658f2312f75bc40a4ea6bfe72b93157c91f6b3a4"
+    },
+    {
+      "git_blob_oid": "cdd1ac0632c7279e5018661eb9bb06373d00d5ce",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/src/agents/videoSearchAgent.ts",
+      "sha256": "8f682fc65c13ac988ea874fd46589c7099dc3493da2945924801c16440b27548"
+    },
+    {
+      "git_blob_oid": "c93dabbdc37b16b428fac4080691659c6ee3333d",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/src/agents/webSearchAgent.ts",
+      "sha256": "881ef5c2ec16196bcf2d07c3b0c3c3748de520b868e6927a9b6c3ad4cacf7f13"
+    },
+    {
+      "git_blob_oid": "b80fcf3021a8d68d60010570560d27f84091a4c0",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/src/agents/wolframAlphaSearchAgent.ts",
+      "sha256": "73955f74b781732be1d1f01e173329bac540518521838f997c90c9dbba2d231f"
+    },
+    {
+      "git_blob_oid": "7c2cb4985fc9fd7abec824f04fc93ea1fdcc9383",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/src/agents/writingAssistant.ts",
+      "sha256": "7f2fa35257f4174c5e0e5cebf14c33ddbf47530f9a002f322a97b82c6a38943c"
+    },
+    {
+      "git_blob_oid": "4133157f65ff04bdd01f6d17893d8fdab483e6f6",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/src/agents/youtubeSearchAgent.ts",
+      "sha256": "631297259df25ed708b37288e2689d5f6c4fa51fb4b3afcc2e5f062b5be675ef"
+    },
+    {
+      "git_blob_oid": "96b3a0cec2ae309f2153db234775d1e8cfc6b8e0",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/src/app.ts",
+      "sha256": "ea7cd1f0dfe8e1f18fc0627bbc08d250d891a6d1b98cc60fd84978c1404a7df4"
+    },
+    {
+      "git_blob_oid": "9ebc18258163e8dc2ab734bced183f5fe6df9bb8",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/src/config.ts",
+      "sha256": "bfc53fd666602db48d91de52dc9c194061a3f9fa30836f31ef08bea16302b488"
+    },
+    {
+      "git_blob_oid": "b431b47f8a71dcdac300f26a462003df14f9e869",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/src/db/index.ts",
+      "sha256": "2730fae758e4f4a060e733dcbbd624b51b9dae30ccbba1420635434fbfdab3c6"
+    },
+    {
+      "git_blob_oid": "9eefa558b4556842927495bed98c9b896891f657",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/src/db/schema.ts",
+      "sha256": "9dd0ff57ef8af620973ee91cc3cd889f229c23c414666acb3fd77e6e0e191806"
+    },
+    {
+      "git_blob_oid": "7a959ca3980b89485e00d810ec26666f6f09e0b2",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/src/lib/huggingfaceTransformer.ts",
+      "sha256": "413ba9c589ff2ed6fd6a383ca789543cf5c5b50199e2f0fa80f339a74c019c31"
+    },
+    {
+      "git_blob_oid": "9607220f392d329d51ced3b2ebf0584eda598494",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/src/lib/linkDocument.ts",
+      "sha256": "f91c9dfe0bedf94641362ae181b24d87735b9d9ad6083f9292e5a975ac29b83c"
+    },
+    {
+      "git_blob_oid": "b50a20ec0b47296e9d8e897c1a930cf11ddc1788",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/src/lib/outputParsers/lineOutputParser.ts",
+      "sha256": "7b1803b8f1e7c2b85b971f0d9c2a1b46f377db0fc18d1be20d941c213e7027f8"
+    },
+    {
+      "git_blob_oid": "1e2f0f5210bc5f86ed720705704c638e16c244ce",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/src/lib/outputParsers/listLineOutputParser.ts",
+      "sha256": "45c9925d9ff9ff688d25abd4162952276cff8a8a4eaf5e44e682bf1fbb9ff794"
+    },
+    {
+      "git_blob_oid": "58cd1643912308e4661cc2d42f9374b317956f62",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/src/lib/providers/anthropic.ts",
+      "sha256": "e5c12dd818e16168f3ac758312127fee90415cbc3b4f1a329349d3014e4af518"
+    },
+    {
+      "git_blob_oid": "ffe8f6c93e889791e9fe1d0fa27db81a736cc64d",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/src/lib/providers/groq.ts",
+      "sha256": "1a2eb76bca65fd4d69f681142ca220ae6d351dfec559869bcfed416741fccdef"
+    },
+    {
+      "git_blob_oid": "d919fd4aa5615f009459c4fccf40157fd58040ff",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/src/lib/providers/index.ts",
+      "sha256": "5f54979576967694abf1e101d584fcd42c57535cb1543c263fe446c0030f7efb"
+    },
+    {
+      "git_blob_oid": "b2901ffb8451e021228eedc34eec0440c8d0657e",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/src/lib/providers/ollama.ts",
+      "sha256": "6c00e5a8026e1a4831e7202b6efd94cee278e8f294aaa8d10312e9209810287f"
+    },
+    {
+      "git_blob_oid": "8673954b431b21d8da47e719c16a573d8102d84f",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/src/lib/providers/openai.ts",
+      "sha256": "1682332e301fe815a11b38a55870133f17b675e9052a4babacf34576900a9c6e"
+    },
+    {
+      "git_blob_oid": "0ec70525461b5d24b7cb4c8ae9a1ff045913b3d4",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/src/lib/providers/transformers.ts",
+      "sha256": "f82c8d80cf8af9c239dac861589749a428a9022c2fa280f83977295cfecabed9"
+    },
+    {
+      "git_blob_oid": "da62457bef076a4d520e6fbc5d6d580dc47f7c12",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/src/lib/searxng.ts",
+      "sha256": "b6cc7c27181005919e7fdc4840e87f806d1d1f17c769200a4c9e8d9a1fbe32fc"
+    },
+    {
+      "git_blob_oid": "afa74f97f7d6d0bd0862b0c5f0cfabe877a7b0b3",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/src/routes/chats.ts",
+      "sha256": "5a18acd7eb1821ca072d29042573801c2ed27fa52313b26c706b29c872bcf88d"
+    },
+    {
+      "git_blob_oid": "f25556039aeb8bb178c76a50807811456f0ec62f",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/src/routes/config.ts",
+      "sha256": "299f538dd3d7879e33c7d297d16d083a0afbce44b4e8b0af1d1b409562b957db"
+    },
+    {
+      "git_blob_oid": "6bd43d3c4dcec13adde6645d7888560023825ecb",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/src/routes/images.ts",
+      "sha256": "39e22a477a9fc4ead752e13570b531b396ccd0934d9c7361bf67fd48903166ae"
+    },
+    {
+      "git_blob_oid": "af928abe170b89c7f9da66ec5145aab8ab09c2e1",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/src/routes/index.ts",
+      "sha256": "5603ca1aa6b5d8cb6d85a164aa6e8a410b4999d8cd22ce7ff7d751d20d9bcbb6"
+    },
+    {
+      "git_blob_oid": "36df25a5588a4870f3865f3368cc88cfafd86c5e",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/src/routes/models.ts",
+      "sha256": "7eeb92d789eaf909855b9a07e6fa62b97f76702a3e958ce8c7a9c67a58352896"
+    },
+    {
+      "git_blob_oid": "b15ff5f8112e66d6290316c6025a8e2880131580",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/src/routes/suggestions.ts",
+      "sha256": "762fe9df082003f610ee8c1c8115e8861496facb143add30300e4e363db97e89"
+    },
+    {
+      "git_blob_oid": "0ffdb2c68f0d7936a2717534ce350ef6a838d623",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/src/routes/videos.ts",
+      "sha256": "622b2fce1159aadd543a013f51996ffd16baf594b114754544d740467c560db0"
+    },
+    {
+      "git_blob_oid": "6e36b759f5d28b9e87f3402d80bfaedfd648bed5",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/src/utils/computeSimilarity.ts",
+      "sha256": "6d77b0fdadb0a9c2dcc2e23b46c394e7ef0608366bd48164b71b2c6d741db105"
+    },
+    {
+      "git_blob_oid": "6d0d309cca71345645a5fe296fd234adb3a30a64",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/src/utils/formatHistory.ts",
+      "sha256": "9cc0a5de6de69ffb4a94cc5872b0fbc982a5c4e07ac53ed7fc608abc15c85873"
+    },
+    {
+      "git_blob_oid": "1c81eb9d6e4be5f38b8722e479b47c4214ae0f5a",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/src/utils/logger.ts",
+      "sha256": "054bec3daac07cc94b4af31b6c6bcf61de9c767111b2b25f9170a592675d447b"
+    },
+    {
+      "git_blob_oid": "70e20d974f2e0fbd063b41c0c07cd972f31a9ae7",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/src/websocket/connectionManager.ts",
+      "sha256": "3474e2997925c336a326445cd3a3130227f7bc5ae73b6eae6c7422dba64493ad"
+    },
+    {
+      "git_blob_oid": "1b9ae770b75572ac7e8c1b6ace60e52e92a153e1",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/src/websocket/index.ts",
+      "sha256": "3a3c4680f7fea6cbaedc64f00d5a5633b3bc782291958cd88140be16361ffe30"
+    },
+    {
+      "git_blob_oid": "0afda9f46264d4f3f8c16d12b5865297345e95f7",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/src/websocket/messageHandler.ts",
+      "sha256": "345e329e6ff877f9ff13be3c52b36503875ab738cc3b02e15d66a6f49c9fa4a5"
+    },
+    {
+      "git_blob_oid": "3ab0b51949e30f7748b066a0df373004c364d0ce",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/src/websocket/websocketServer.ts",
+      "sha256": "f088be6a215b7f12d255abda43d2b6a25e0ffe3c03212535ae7bde2600e65124"
+    },
+    {
+      "git_blob_oid": "48e6042f7fd78b0395fb106b3144a604f71b2993",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/tsconfig.json",
+      "sha256": "cf3db27f1838f2e06b0688f164b19d82fb853dc1ab975d66f6b513f4cfb9698a"
+    },
+    {
+      "git_blob_oid": "57a3ed987e475a7231ed19c11457a8135ac95904",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/ui/.env.example",
+      "sha256": "27711b21024bb3cbeecead28c45aaebfa17b193fa9869874aec4138835a7e056"
+    },
+    {
+      "git_blob_oid": "bffb357a7122523ec94045523758c4b825b448ef",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/ui/.eslintrc.json",
+      "sha256": "1589a15e55fbebc6519c95d91d8f0a090618f20dc78e479858b9c27552484961"
+    },
+    {
+      "git_blob_oid": "5913b49863716c2e08543b270546309b762c0546",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/ui/.gitignore",
+      "sha256": "3475892c4cddd898332c0388e7975de6079229191125b9b9482bd0a52e11a2d9"
+    },
+    {
+      "git_blob_oid": "8ca480f18f799c826a4a426d7a34329355b56adb",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/ui/.prettierrc.js",
+      "sha256": "2edfcf872081ab0ddba733038722807a8a84a8854caabddf21c2dc42d2169e20"
+    },
+    {
+      "git_blob_oid": "dc3c92a03c51dfd0029ce32d83f3e229c42c47b5",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/ui/app/c/[chatId]/page.tsx",
+      "sha256": "cad999119628f85d9b37807722329a4747b1f7deba0683426dc03917b1affdcc"
+    },
+    {
+      "git_blob_oid": "718d6fea4835ec2d246af9800eddb7ffb276240c",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/ui/app/favicon.ico",
+      "sha256": "2b8ad2d33455a8f736fc3a8ebf8f0bdea8848ad4c0db48a2833bd0f9cd775932"
+    },
+    {
+      "git_blob_oid": "f75dacad47579853f741a78fc4572ade9028d984",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/ui/app/globals.css",
+      "sha256": "fab85343c732058c8dc7c57cf72634921278b126512bb9b112b964a7cd119eff"
+    },
+    {
+      "git_blob_oid": "684a99c9f3f142a6b1ba739fd2fc4f36824edce3",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/ui/app/layout.tsx",
+      "sha256": "efcd3ca411fae5b0001bbc394a241f52173ab0f03d3856f6db6231518108b5d2"
+    },
+    {
+      "git_blob_oid": "00d4a3bc79bf19ad9aaae604b552520c075db3e2",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/ui/app/library/layout.tsx",
+      "sha256": "bb1563d361c0c904f90629009a8bb6c2c6fe3047ce3f1f29401024607dd538e5"
+    },
+    {
+      "git_blob_oid": "8294fc1b957a0bcab1cca8b480bcbe827e662561",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/ui/app/library/page.tsx",
+      "sha256": "cab6b2c7bdcaac57d05257f79a99f2193cb0cdc85bed2e8688d735859df1e818"
+    },
+    {
+      "git_blob_oid": "e18aca9d5492bc5dd0421429c33341d3f4ad221a",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/ui/app/page.tsx",
+      "sha256": "24fdf4e040d5af7b761e824fa839ffa48d4b649023145c238bb6efc6f36b874e"
+    },
+    {
+      "git_blob_oid": "8c0fb80480caea1bd4642007d5a050799170d951",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/ui/components/Chat.tsx",
+      "sha256": "a81810804f91ea434a509b20c67838b447c2b26eec3091b6bd489b05c1ac6373"
+    },
+    {
+      "git_blob_oid": "5e6d382d618e0bc849f5b2aba6f920974a75fa55",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/ui/components/ChatWindow.tsx",
+      "sha256": "02e2365ff85c49a6657990d0dea7f8fa7eeea925cfd94832a9d1e3e70a166983"
+    },
+    {
+      "git_blob_oid": "165f86e394520056ba0d031edb3f096e6166f0ea",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/ui/components/DeleteChat.tsx",
+      "sha256": "4cb8c2ec5c3546c58193873c366eff68eb62782cbc3c66837b5fd94981150c67"
+    },
+    {
+      "git_blob_oid": "ea3642b6dc8177a60a775427f46b9a91a9720e1b",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/ui/components/EmptyChat.tsx",
+      "sha256": "e86a72260dfe835fcca192450d55e3b25272bd20b945a10246d6507139ac6f29"
+    },
+    {
+      "git_blob_oid": "0ff9b2e30c50d7bf94f569c9df471adc882f2d12",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/ui/components/EmptyChatMessageInput.tsx",
+      "sha256": "be4120c195c201f3d96200574cae8fc3fafd14271418693c20cb41e027ac5d5e"
+    },
+    {
+      "git_blob_oid": "00f0fff0f05423de941d95fc9e278221973212c7",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/ui/components/Layout.tsx",
+      "sha256": "58662b7775a25b557dcf6fcfdc2b0e362c41f7ea33e924c55e6814fca772d444"
+    },
+    {
+      "git_blob_oid": "cb07b3ec640fae56b97fe3e18b9dcbbe3f992170",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/ui/components/MessageActions/Copy.tsx",
+      "sha256": "3cef1504fe016e8669120d6d3b1fb3f7689a721d792e9b1f98ef922474c6a84d"
+    },
+    {
+      "git_blob_oid": "80fadb302a0d1391a91c44b4a9da0d0096b42c45",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/ui/components/MessageActions/Rewrite.tsx",
+      "sha256": "6c38a8d0ae6595c57ce1d165929393f532b945b1ba1cb0825c82d9a59b66d1a6"
+    },
+    {
+      "git_blob_oid": "b11108889e0e7393650e3cb69f9982bd906789b8",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/ui/components/MessageBox.tsx",
+      "sha256": "f8a18c0a1115d4a22cbc75b7b8078e10d6c04c7f0bea5c01485e81b96de534ae"
+    },
+    {
+      "git_blob_oid": "3c53d9eaf8a9b9250e035e52ab226caaeb4d6c09",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/ui/components/MessageBoxLoading.tsx",
+      "sha256": "05279bae05ad61c0e5c06be71d980124fffb00de326bec59496d33cd9ff1c247"
+    },
+    {
+      "git_blob_oid": "2229cdf39169f82c22a38a063bb09de3b256eb9d",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/ui/components/MessageInput.tsx",
+      "sha256": "b3217226e8847da59176e0114f40e44b1df270d08be1e5e1015a50964e76f1a8"
+    },
+    {
+      "git_blob_oid": "6d8ffcf084b2260c59c0db9336a8fe74452f6e8a",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/ui/components/MessageInputActions/Attach.tsx",
+      "sha256": "37047020174d76c997e1ffc9397144293dc47dce076532ea7ef387d0b22cd653"
+    },
+    {
+      "git_blob_oid": "5a3e47675ecd45aca919336bc0da9c26f9c9950e",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/ui/components/MessageInputActions/Copilot.tsx",
+      "sha256": "2fd7c49cb8bb02da5d22f670090c15800c86e2222ac4bde3ef59538df2a164b7"
+    },
+    {
+      "git_blob_oid": "86fca443fbf26f0520ae054e0e3f03f808e7cfcc",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/ui/components/MessageInputActions/Focus.tsx",
+      "sha256": "0d0b2bfce17ca2026d15a3f286943c6cdf9d553b6b3a31d605f363e1fa101230"
+    },
+    {
+      "git_blob_oid": "71eebf83dca7cfe79c86f89fe20c572afddd0afd",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/ui/components/MessageSources.tsx",
+      "sha256": "3491bf93de84680aba1e536c9d90387c2fb018edd3b4bd7b77cbc9abde852177"
+    },
+    {
+      "git_blob_oid": "020dfb4f65507d932b185045a3d413580993b09f",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/ui/components/Navbar.tsx",
+      "sha256": "b99ea4aa6acd076d0a94f3dcfb80e10294bc1dfbc22835a6b124320b95530b2b"
+    },
+    {
+      "git_blob_oid": "b53b8b0b4e2f5e8bd7c10674775ed049c7fe3cd6",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/ui/components/SearchImages.tsx",
+      "sha256": "6f20b188578916d116ba2e3722ce796b599431b2a30dfb8ff81627f9301dfd36"
+    },
+    {
+      "git_blob_oid": "26463228401649d6d4e58aaaeaf4ebbf4b3d6e0e",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/ui/components/SearchVideos.tsx",
+      "sha256": "c2bf1888cb677a48477f5a19b54f68619b5da3cb1c43c7a095143dd8648c94b4"
+    },
+    {
+      "git_blob_oid": "171e8129f8aa2c5dae092226fa9d350528042591",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/ui/components/SettingsDialog.tsx",
+      "sha256": "55688f17e70e5d27d0ce057ab15a213f5d46bc76a04a0b8ee381d0849d2fac25"
+    },
+    {
+      "git_blob_oid": "cc2097ddec2b073cd10ee13fca6c3c24f8f011b0",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/ui/components/Sidebar.tsx",
+      "sha256": "c32bf0f26b0dee54509ea09bea034adf2ec95019e4f54687da2ab82a83683c2a"
+    },
+    {
+      "git_blob_oid": "43e2714cbb9f51f84a816f7fe7cf5ee51abf6f97",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/ui/components/theme/Provider.tsx",
+      "sha256": "178aa6b4042a0d3c31d77bc0b49e157a5e7aba160721555f35546a2e66f2b9c5"
+    },
+    {
+      "git_blob_oid": "43bbdc8df1766871dd57d612c230b48299fae1c4",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/ui/components/theme/Switcher.tsx",
+      "sha256": "2f1ca7fded90ef6331252a31a1be1580f21d8901e7ba7628c771f3e9ca69a1fb"
+    },
+    {
+      "git_blob_oid": "d7eb71f57cd1896f01fd204ea13a0c73d459aeac",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/ui/lib/actions.ts",
+      "sha256": "10e8b1ec4d90fb79351a0eb187a207ef787f47a4a7a0be107ef134cc87d3b231"
+    },
+    {
+      "git_blob_oid": "30d6da57f7299eb23a0da04b6e5014948e6ec9f3",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/ui/lib/utils.ts",
+      "sha256": "7d69a9929b59b0c4b19aacf3bca7eea3b3e7d2bd8fc377862f8da3b1e536b71f"
+    },
+    {
+      "git_blob_oid": "c3f2e1ac43c636d6ed00d9d4fc68e6d3c7d581de",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/ui/next.config.mjs",
+      "sha256": "b261de197fd97271b9506eb4bb6a4421e9d0b7d0a65ecb19ab0aa0d4fd994681"
+    },
+    {
+      "git_blob_oid": "1d892de18f3f2f6c78dd353516178f65d3bc727a",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/ui/package.json",
+      "sha256": "69620d14bd1b5d968dae367c31d4b1d31ed1b14ed27c117943aeae56bf80cc09"
+    },
+    {
+      "git_blob_oid": "12a703d900da8159c30e75acbd2c4d87ae177f62",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/ui/postcss.config.js",
+      "sha256": "fa650b380adfabb151a0b352f7135e107e6352345f899060f1c5c231228f94bf"
+    },
+    {
+      "git_blob_oid": "5174b28c565c285e3e312ec5178be64fbeca8398",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/ui/public/next.svg",
+      "sha256": "55995dfad6ecb4945a1e856ddca03c5e16aa5bf13fd21b4df6a74ae79357bcfc"
+    },
+    {
+      "git_blob_oid": "d2f84222734f27b623d1c80dda3561b04d1284af",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/ui/public/vercel.svg",
+      "sha256": "3fa5cd757b418e18afc68ddebad55f443206e410327921ddb2bf1be731658880"
+    },
+    {
+      "git_blob_oid": "00ae10a2b92ba7f427e1347bd76b57ae1714ef52",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/ui/tailwind.config.ts",
+      "sha256": "edc9e4ac8a6919a218376489d724b369cdf88770327913109d570459deda2c16"
+    },
+    {
+      "git_blob_oid": "e7ff90fd2767199e09b281bfa87e08a90f33270e",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/ui/tsconfig.json",
+      "sha256": "54202f1d6d35ba51c3daea32bf67e8da24568ec0cb0c341fa0b5ed2ceb174f2d"
+    },
+    {
+      "git_blob_oid": "d348a8c41626ad64d33b3d7ad2cd9461008583bd",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/ui/yarn.lock",
+      "sha256": "34d29547fc6ce1806cfb54594727ec28305af7fada6995c28158b385369c09de"
+    },
+    {
+      "git_blob_oid": "1c34e1de152ac775cb8e4aa449c0caa868cee83d",
+      "mode": "100644",
+      "path": "backend/AI/Perplexica/yarn.lock",
+      "sha256": "ccb19040f53b96765af732f86e64a67ff70dfcc9837ec33bb2b2f46872674563"
+    },
+    {
+      "git_blob_oid": "5bc90f0ff02102793de1effcb2f9a09494f1e491",
+      "mode": "100644",
+      "path": "backend/AI/dealers/dealing.py",
+      "sha256": "45fc87c13e1f07023e6839d114d915367846fce40463d76a693746482528704f"
+    },
+    {
+      "git_blob_oid": "5fb85ff5a427e6c056f63a0911950e5d6827eeba",
+      "mode": "100644",
+      "path": "backend/modules/OF/.obj_detect.py",
+      "sha256": "ddecd2d499397a1604cfbab187810e90247a935ad35bcd86fdabab06cd18a327"
+    },
+    {
+      "git_blob_oid": "abef576a206d77390b3feaf9cae2bf72d16ef405",
+      "mode": "100644",
+      "path": "backend/modules/OF/eye.py",
+      "sha256": "1f4ec230dd3122e8dd13f27f7b456bc50b93457d5d865d823c3db21376f51a8a"
+    },
+    {
+      "git_blob_oid": "e086b5213ee6175efed16abbea6fdf4ac723bb39",
+      "mode": "100644",
+      "path": "backend/modules/OF/obj_detect.py",
+      "sha256": "749eab748dcf1919c6326480a1e8efbd54054f77118b2efa3153041de446b5a1"
+    },
+    {
+      "git_blob_oid": "1c2a14944a2fef91dc5fd275952101eb1541094d",
+      "mode": "100644",
+      "path": "backend/modules/OF/screenshare.py",
+      "sha256": "05fb4735e88c2772c3b63bd54546a283f0e49b3cab63a7e21798fdd8118326db"
+    },
+    {
+      "git_blob_oid": "e10e7cc7c05e3356c068435e47ddc9a307732bc3",
+      "mode": "100644",
+      "path": "backend/modules/Powerpointer/ChatUi.png",
+      "sha256": "26b3d256f68c8328a20118b80d2d33ac9c66dfd64b2862085903bfed090c8efa"
+    },
+    {
+      "git_blob_oid": "a4c20747add677ace8cdb6ac81edaba197d82f68",
+      "mode": "100644",
+      "path": "backend/modules/Powerpointer/Demo1.png",
+      "sha256": "a8784171c71f4e8582ba7d2397470a1a659c3c37641e5f812b79ea5d233d653b"
+    },
+    {
+      "git_blob_oid": "0dc0e8d778a0d19e7aa17e8283e9f05c3dc13150",
+      "mode": "100644",
+      "path": "backend/modules/Powerpointer/Demo2.png",
+      "sha256": "e4f663aaea9daf516f5fcb2f304cb73317f8eb52e9834c37b679a01fa1a67ea9"
+    },
+    {
+      "git_blob_oid": "6e86846d63ffab445ee4c18c299a4d7e9103ef62",
+      "mode": "100644",
+      "path": "backend/modules/Powerpointer/Designs/Design-1.pptx",
+      "sha256": "4de5f8f599314e48cae5d2c7ce94e5e0691e177f7f4d9abf17d753cb820fb1be"
+    },
+    {
+      "git_blob_oid": "51911feb5544a2d87e4441b77dbb4c179e95bb72",
+      "mode": "100644",
+      "path": "backend/modules/Powerpointer/Designs/Design-2.pptx",
+      "sha256": "2d81832342f4b7ddf5f93b2c81a48a949edde0981fa30b5626c1fb5d4b7f20a3"
+    },
+    {
+      "git_blob_oid": "9bda4cdc53cb0fd5509117064e97e46cda1bab19",
+      "mode": "100644",
+      "path": "backend/modules/Powerpointer/Designs/Design-3.pptx",
+      "sha256": "4722f025568a53b5d5d32739ad1f6175f37d34d5eb6062d4b6cf07c9f5f854ca"
+    },
+    {
+      "git_blob_oid": "9975b45860d08a409681ba15a057d877ebbf8dd4",
+      "mode": "100644",
+      "path": "backend/modules/Powerpointer/Designs/Design-4.pptx",
+      "sha256": "d9bee6658c7b9424f329c780940772adba081250d3582d15437e5c1fb4c2b1f1"
+    },
+    {
+      "git_blob_oid": "1efaa88b71b16977b7879793edb59176a50822e1",
+      "mode": "100644",
+      "path": "backend/modules/Powerpointer/Designs/Design-5.pptx",
+      "sha256": "c1e8b35f703f922d8aa1ba9237f856a599f76d1ac20004a03c386f4de0b06533"
+    },
+    {
+      "git_blob_oid": "74d0304559d7bd669ac3d645012c849042997147",
+      "mode": "100644",
+      "path": "backend/modules/Powerpointer/Designs/Design-6.pptx",
+      "sha256": "cf194414c55536f68d2f6989a2fd0056330cd8ab5fbef1a4fa9909f3d6ff821c"
+    },
+    {
+      "git_blob_oid": "94dc5357d09966a87d4435da10cac8e9bc2c7ed8",
+      "mode": "100644",
+      "path": "backend/modules/Powerpointer/Designs/Design-7.pptx",
+      "sha256": "6a66a70b352e2f4b6f4eca578c11c4777f04067d4fb35197e93c57aac1c84aa1"
+    },
+    {
+      "git_blob_oid": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "mode": "100644",
+      "path": "backend/modules/Powerpointer/GeneratedPresentations/placeholder.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "git_blob_oid": "261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64",
+      "mode": "100644",
+      "path": "backend/modules/Powerpointer/LICENCE",
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+    },
+    {
+      "git_blob_oid": "a4b4d51195b229cf244b7e115e2961c7b8563be6",
+      "mode": "100644",
+      "path": "backend/modules/Powerpointer/README.md",
+      "sha256": "57bfa402a83f2eb557fa6b2291ff5f9c3a9d67da9cd7df486012bda3f31f93a9"
+    },
+    {
+      "git_blob_oid": "ebce070ce301fcdbdb24d628d4996a4da6d5deb9",
+      "mode": "100644",
+      "path": "backend/modules/Powerpointer/app.py",
+      "sha256": "cb7340e65533673a410c435f516dfb8e7de1dd9b6237d2d2b728b18783652a24"
+    },
+    {
+      "git_blob_oid": "9ad862cfd03d9dd72d478d9650732f85926d4001",
+      "mode": "100644",
+      "path": "backend/modules/Powerpointer/main.py",
+      "sha256": "8b1a06fd05ad11a0295c7de87b73bcf1dd5b108ed9358dbe82d4955f60e73fbd"
+    },
+    {
+      "git_blob_oid": "ae8253f437815397552aafc974847df2e9a5fe9e",
+      "mode": "100644",
+      "path": "backend/modules/Powerpointer/start_app.bat",
+      "sha256": "a065c4a2f8c61712cce8c1e208c80e8e00e01854eca9ee02ab6e5fff5d6bc42b"
+    },
+    {
+      "git_blob_oid": "6099ea72769aafef932d3d407133cd933b74809f",
+      "mode": "100644",
+      "path": "backend/modules/Powerpointer/templates/powerpoint.html",
+      "sha256": "5a62e93e0c151b412af6c1260f447ffbb06584e6fca479b766c4bc2e92bfa71c"
+    },
+    {
+      "git_blob_oid": "1d192d88d6ac7c9fc4276c03606f222f702e26ea",
+      "mode": "100644",
+      "path": "backend/modules/automodel.py",
+      "sha256": "ddb9a8f610aa41dac76fe7b4f48e8a1299465ecbe077f4106f08b9f84d17f145"
+    },
+    {
+      "git_blob_oid": "cda7dab1b8c967e9073089116ecc17e99af05cb7",
+      "mode": "100644",
+      "path": "backend/modules/basic/clap.py",
+      "sha256": "804a0f8d51a4eb6645b70a1072f7b8268f2c1748bbd8d68bd38d4ad1962e3741"
+    },
+    {
+      "git_blob_oid": "5b03f9ad88f20eda999c20a5bee7ca5c551c1b17",
+      "mode": "100644",
+      "path": "backend/modules/basic/listenpy.py",
+      "sha256": "2520d3830b7c76d4c7da3526dd9621453ff451fac79afabc7479f9e097206bfb"
+    },
+    {
+      "git_blob_oid": "d8a9ad644798c04d42f2d826e0678d47ab2ea0c2",
+      "mode": "100644",
+      "path": "backend/modules/codebrew/CodeBrew.py",
+      "sha256": "9b536201891658a1849ed8e7dca886c23cacbcc9e2dba10ff4ca1922c1b6ee09"
+    },
+    {
+      "git_blob_oid": "754b2fd7422bb85db2e3776a549685c8d7f09acd",
+      "mode": "100644",
+      "path": "backend/modules/codebrew/VectorPrompts.py",
+      "sha256": "a05f76f57f26e1d4ddbc72d80a914760bd6103ffc43bb42c396705b0e29e406e"
+    },
+    {
+      "git_blob_oid": "89a39ddc26cb8b67993d2501f174aaa91355688a",
+      "mode": "100644",
+      "path": "backend/modules/codebrew/__init__.py",
+      "sha256": "1cb514b73b2905ce144ba2fc89878e092e9fac0656e9c1829a3ae2185b6f817b"
+    },
+    {
+      "git_blob_oid": "73a2d33b965925781f9eb5e36f73f8a53b38b3b8",
+      "mode": "100644",
+      "path": "backend/modules/codebrew/db/DbCls.py",
+      "sha256": "6c850ba2c21f996411feb0166ecb58774839e8687071b4b50288b6ccf632f9bc"
+    },
+    {
+      "git_blob_oid": "2b28a2ba7b27b067adca1893139d7ddb5d8eccf5",
+      "mode": "100644",
+      "path": "backend/modules/codebrew/db/__pycache__/DbCls.cpython-310.pyc",
+      "sha256": "85a1bf5a0515f6d92b8114339057361c41444055280285fab21c7495b5563981"
+    },
+    {
+      "git_blob_oid": "818c512ceac1dd01476ec50530571116a03c746d",
+      "mode": "100644",
+      "path": "backend/modules/codebrew/db/__pycache__/embeddingCls.cpython-310.pyc",
+      "sha256": "5aa54c999c5969e9341a101b87415d5b24f00b1cffe279f55b6d87726ebb08ac"
+    },
+    {
+      "git_blob_oid": "ac51ac9aa7019747dab66c56a1ff709716951f9c",
+      "mode": "100644",
+      "path": "backend/modules/codebrew/db/embeddingCls.py",
+      "sha256": "3ef4984f193531a0547dfc8821c9d85a8a1961f238b08ecc09e009c7dbbf7247"
+    },
+    {
+      "git_blob_oid": "577ff960a13013f6942afc6e427adc94e1f2f3ea",
+      "mode": "100644",
+      "path": "backend/modules/codebrew/json/example.json",
+      "sha256": "f3a914c2d3869dcc85d4cb95871a74bd8cc8c63a45c18413b22b2c02a8d501d6"
+    },
+    {
+      "git_blob_oid": "bd0687bff937df8ea9522069d5286350ca1a5d23",
+      "mode": "100644",
+      "path": "backend/modules/codebrew/main.py",
+      "sha256": "99ec5badbc9de6add185e4411d053eb8914317bf4e92b0de24a264db191e1fe1"
+    },
+    {
+      "git_blob_oid": "05cd5966ec181da7aa358912626a2e74e401b5ba",
+      "mode": "100644",
+      "path": "backend/modules/codebrew/prompts/codebrew.jinja2",
+      "sha256": "795a8d80cfa616546fb00b406ede17899286e33d8a59cd80b3c6dcc7781a7543"
+    },
+    {
+      "git_blob_oid": "dcffa66a457ce8cc6aec9d9200cac8a1a5224806",
+      "mode": "100644",
+      "path": "backend/modules/extra.py",
+      "sha256": "74cbf28821c54e8eb754bf10b2a1dbc0162a89478b68ab4e4c6da125b2c106d1"
+    },
+    {
+      "git_blob_oid": "ce4678809c01b12156646c80fc54583ab80ad4b0",
+      "mode": "100644",
+      "path": "backend/modules/filter.py",
+      "sha256": "4811518b2f4ea0e5f02f548b81855d9d17b0f478cadd4b0d1d54b757c1b849e9"
+    },
+    {
+      "git_blob_oid": "b5bbef1e509108fdfa28e7581090b99985216467",
+      "mode": "100644",
+      "path": "backend/modules/llms.py",
+      "sha256": "73269a557529fa27c58c4c5a10ac746299427acc9ef383ddee09edfaea650a6b"
+    },
+    {
+      "git_blob_oid": "9808aec2f2157cd088fa044155fbc325bcf90de0",
+      "mode": "100644",
+      "path": "backend/modules/ocr/ocroff.py",
+      "sha256": "83d9358ff2a9f085fcdf13279ffc3c23ab21f03d293dfb39684c51e281b7a9c4"
+    },
+    {
+      "git_blob_oid": "c8204e9d75de262fab5fdb946474762a8acbc593",
+      "mode": "100644",
+      "path": "backend/modules/ocr/ocron.py",
+      "sha256": "207c332e6ede048f2fd347370434f42e3307d73ef2cb82df3dd40ed0d9d31977"
+    },
+    {
+      "git_blob_oid": "4e0a35d42b9cc62b726096d80e73410e5dae3179",
+      "mode": "100644",
+      "path": "backend/modules/rawdog/RawDog.py",
+      "sha256": "34a24e298b014c3a35d02c389ae26523f93fa0e117831ad0ab2f12688c5c2c0d"
+    },
+    {
+      "git_blob_oid": "5d7b85a9e4c32a98511d548f28669ac8eac21673",
+      "mode": "100644",
+      "path": "backend/modules/rawdog/__init__.py",
+      "sha256": "59caebd5a0e9d0bd59dc64ce576ad7fe8b5673f1c3c1deac58a215ebf785e156"
+    },
+    {
+      "git_blob_oid": "82e1c46ed58680dde344ff7711bc70abc4a329bf",
+      "mode": "100644",
+      "path": "backend/modules/rawdog/main.py",
+      "sha256": "e3ff02db2420c583724bd7df1ca3ed08e7df80052a1fd24cae3e545e6e80f69f"
+    },
+    {
+      "git_blob_oid": "592e99dcdffcaed49d4a87f0e31ed2b68f7e5e2f",
+      "mode": "100644",
+      "path": "backend/modules/rawdog/prompts.py",
+      "sha256": "239c0aee90a3e299d7dbd897fc8e6ee19cb0879b682350bbcf3bc081b8761566"
+    },
+    {
+      "git_blob_oid": "753c15d214183296c17ece1207535fb923d2b4a3",
+      "mode": "100644",
+      "path": "backend/modules/rawdog/prompts/example.jinja2",
+      "sha256": "37012449f42f84be6f507748fa7a2775b07e9eb1e3390cc6509e20dbf8f4f26a"
+    },
+    {
+      "git_blob_oid": "005954a84d04ea4412c3b51bd524dfdaae2ca13d",
+      "mode": "100644",
+      "path": "backend/modules/rawdog/prompts/rawdog.jinja2",
+      "sha256": "33a1383e485ba0d36a2bf1b1735fa2203ac5b7ad3b41de23fbd566ca77a9922b"
+    },
+    {
+      "git_blob_oid": "f477f79c33da64b734ee3ab81ecae82b08eb6ed5",
+      "mode": "100644",
+      "path": "backend/modules/rawdog/prompts/startinfo.jinja2",
+      "sha256": "0f54328bb921edff17d316ae32a46e6cc09efa07cf17046b7d8080f2123a4dcb"
+    },
+    {
+      "git_blob_oid": "b4d13f689708a0aac06dc8d8a9e8d7e07c0a1f7c",
+      "mode": "100644",
+      "path": "backend/modules/search.py",
+      "sha256": "178a0cafbcc52bd847093944a4a67a368ada52d5d54ea335c4c7615bd0828847"
+    },
+    {
+      "git_blob_oid": "006370d59e46ed63009a8f9dc6f5673991166a21",
+      "mode": "100644",
+      "path": "backend/modules/speak/speakmid.py",
+      "sha256": "9f97d9d2ba95db3a911607dfd27fea6e645f6832636e1579507d42a21d7fb7e8"
+    },
+    {
+      "git_blob_oid": "74edad179a2db3b7f49d7460a996d3596b9f052a",
+      "mode": "100644",
+      "path": "backend/modules/speak/speakoff.py",
+      "sha256": "78de2efac2652f9beb265c7f2573e0b997935a0dc927252aab7dff7292570e56"
+    },
+    {
+      "git_blob_oid": "dff5be6dfda39863a60f7430a3c093daa6ce7967",
+      "mode": "100644",
+      "path": "backend/modules/speak/speakon.py",
+      "sha256": "2b88310ba41e27750061561d8feb07d81923529f8d3facc34e5237328fffe5e8"
+    },
+    {
+      "git_blob_oid": "2359570347ec5df4180f8e8e41ee0406bcbb1606",
+      "mode": "100644",
+      "path": "config/config.json",
+      "sha256": "9024ed3889b95196570590d94eb4c51708c28a8fb55f9402e5c4c0e24700be64"
+    },
+    {
+      "git_blob_oid": "142fe07594bcb1e2a659982f48504ecc156ab0b7",
+      "mode": "100644",
+      "path": "docs/IP_SHIELD_GITHUB.md",
+      "sha256": "1b3d5f528dcc66959b29f71af8f93e991fa31e4f6aa5f92bab5525f745adb4c0"
+    },
+    {
+      "git_blob_oid": "df5743f64e2108fd58479c6cadeab062fb7870ab",
+      "mode": "100644",
+      "path": "extensions/config_all.json",
+      "sha256": "a8d5499a05f9155d6962982bcb994ebb512d34ab5b69d018054a8d4f8a32c067"
+    },
+    {
+      "git_blob_oid": "4f590dece6cf8601d764ed76d59d84b0c33aa0cb",
+      "mode": "100644",
+      "path": "extensions/github.py",
+      "sha256": "05e1a348c986aa1e162818a4099fcc621b98a87f317c2e57d7f23c484e27b844"
+    },
+    {
+      "git_blob_oid": "62241d2c6fc2aba80c6f5c23b661c827e82b009d",
+      "mode": "100644",
+      "path": "jarvis.py",
+      "sha256": "11a991feae3c1e5b006a83cf1281d29599a5fda5c90f378c2a7ec0e6ff4033eb"
+    },
+    {
+      "git_blob_oid": "ca661457c68a814c7f5c79d82c1221306cdb6fd6",
+      "mode": "100644",
+      "path": "morefunctions.py",
+      "sha256": "d6ae289fc3308e222a7c89c0f2e60e3998901f6f1e9d17854b696e347eb7825b"
+    },
+    {
+      "git_blob_oid": "bb4dfdf9803439ea96defaa485e4bbff617b3ebc",
+      "mode": "100644",
+      "path": "requirements.txt",
+      "sha256": "b27d58c07b4766e38f97631152a859418dcb94d4d5bcc9e15351cef2b051fafe"
+    },
+    {
+      "git_blob_oid": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "mode": "100644",
+      "path": "sst.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "git_blob_oid": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "mode": "100644",
+      "path": "tts.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "git_blob_oid": "cc824206a2e10d62902532c80b385d1da4bd2c14",
+      "mode": "100644",
+      "path": "web/eel.js",
+      "sha256": "367928ae07cf27a15e1816a88af71599c8d652d6fe0c701979565dc8dd70ddc0"
+    },
+    {
+      "git_blob_oid": "d4e9f00c84eaba74ee16d09c0c37f271e97d8216",
+      "mode": "100644",
+      "path": "web/home.html",
+      "sha256": "9a923b797b0acd7f67815d423bb4ce96f0e16ab998e33a1abb2fa7f74333a861"
+    },
+    {
+      "git_blob_oid": "af8bc94136ed1b070eb578b96c182e333d7163c5",
+      "mode": "100644",
+      "path": "web/settings.html",
+      "sha256": "c8392ba875078e2cfbe20cb8656e9d4e6596edc8ea4e5dab6ef8104b10c9d4fa"
+    },
+    {
+      "git_blob_oid": "64078ebc7d5f47fab5252116db17c2c85eac750c",
+      "mode": "100644",
+      "path": "web/spider.html",
+      "sha256": "a6c811c5cb393d25d5aff84190afaf1562a34ef5e8b87bf7d8ea31297c584b0e"
+    }
+  ],
+  "generated_at_utc_runner_clock": "2026-11-13T19:02:36.322743+00:00",
+  "limits": [
+    "Git author and timestamp fields are declared metadata, not verified identity or trusted time.",
+    "Hashes identify recorded bytes; they do not prove authorship, originality, ownership or infringement.",
+    "The report contains paths and hashes, not source-file contents.",
+    "The runner clock is not a trusted timestamp authority.",
+    "Third-party and joint contributions retain applicable rights and licenses.",
+    "The ledger branch is versioned evidence, not immutable storage.",
+    "Only this repository and triggered refs are covered."
+  ],
+  "manifest_type": "AEGIS_GITHUB_IP_SHIELD_PROVENANCE",
+  "manifest_version": "1.0",
+  "ref": "refs/heads/main",
+  "ref_name": "main",
+  "repository": "irstabyjorge/JARVIS-MARK5",
+  "tree": "3981ca607428a1d7f1a5948481677bfe04e41dd1",
+  "workflow_run_attempt": "1",
+  "workflow_run_id": "43488202937"
+}
